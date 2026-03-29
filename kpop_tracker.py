@@ -391,13 +391,21 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
     "rank": 1,
     "group_id": "グループID（ive/le_sserafim/twice/newjeans/h2h）",
     "category": "カテゴリ（ticket/event/comeback/tv）",
-    "headline": "見出し（日本語・35文字以内）",
-    "summary": "要約（日本語・2〜3文・60〜100文字）",
-    "detail": "詳細（日本語・5〜8文・200〜400文字。日時・会場・購入方法などを含む）",
+    "dates": "関連する日程（例: '4/18(土)・4/19(日)'、'3/25 10:00受���開始'、不明なら'日程未定'）",
+    "venue": "会場名（例: '京セラドーム大阪'、不明なら空文字）",
+    "headline": "見出し（日本語・日程を含めて40文字以内。例: 'IVE日本ツアー一般発売 4/18-19 京セラドーム'）",
+    "summary": "要約（日本語・2〜3文・80〜120文字。必ず具体的な日程・会場・受付期間を含む）",
+    "detail": "詳細（日本語・5〜8文・200〜400文字。日時・会場・購入方法・受付期間を含む）",
     "url": "元記事URL",
     "source": "情報源名"
   }}
 ]
+
+■ 最重要ルール — 日程情報:
+- headlineには必ず日程（M/D形式）を含めること
+- summaryには必ず「いつ」「どこで」を明記すること
+- チケットの場合は受付開始日・販売開始日を必ず含める
+- 元記事から日程が読み取れない場合は dates を「日程未定」とし、headlineにも「日程未定」と書く
 
 ■ 重要度判定（この優先度で選定）:
 1. 【最重要・必ず含める】チケット情報（先行販売・一般発売・抽選開始・販売日告知）
@@ -405,7 +413,7 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
 3. 【中】日本のTV出演（Mステ・CDTV・FNS・THE FIRST TAKE等）
 4. 【除外】雑誌掲載のみ、SNS更新のみ、グッズ情報のみ、韓国国内のみの情報
 
-■ ルール:
+■ その他ルール:
 - 重要度が「除外」に該当する情報は返さないでください
 - 同じ内容の重複は1件にまとめる
 - 最大{TOP_N}件まで
@@ -466,9 +474,21 @@ def build_embeds(top_items: list[dict], now: datetime, total_collected: int) -> 
             name = f"{n} {emoji} {group_name} — {item['headline']}"
 
         source = item.get("source", "")
+        dates = item.get("dates", "")
+        venue = item.get("venue", "")
+
+        # 日程・会場を目立たせる
+        date_line = ""
+        if dates:
+            date_line += f"📅 **{dates}**"
+        if venue:
+            date_line += f"  📍 {venue}"
+        if date_line:
+            date_line += "\n"
+
         fields.append({
             "name":   name,
-            "value":  f"{item['summary']}\n*出典: {source}*",
+            "value":  f"{date_line}{item['summary']}\n*出典: {source}*",
             "inline": False,
         })
 
