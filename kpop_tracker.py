@@ -31,7 +31,6 @@ from duckduckgo_search import DDGS
 
 from config import (
     GROUPS, TICKET_SITES,
-    TICKET_KEYWORDS, EVENT_KEYWORDS, COMEBACK_KEYWORDS, TV_KEYWORDS,
     TOP_N, MAX_CANDIDATES_PER_GROUP, HISTORY_RETENTION_DAYS,
     TWO_DAYS_AGO_HOURS, DDG_SLEEP_SEC,
 )
@@ -83,7 +82,6 @@ def search_x_for_group(group: dict) -> list[dict]:
     """グループごとに3クエリでX検索。"""
     name = group["name"]
     x_acc = group["x_account"]
-    name_jp = group["name_jp"]
     queries = [
         f'site:x.com {x_acc} チケット OR ライブ OR コンサート OR ツアー OR 発売',
         f'site:x.com "{name}" Japan OR 日本 チケット OR 先行 OR 抽選 OR 一般発売',
@@ -510,7 +508,8 @@ def build_buttons(top_items: list[dict]) -> list[dict]:
     return buttons
 
 
-def send_via_bot(payload: dict) -> None:
+def send_via_bot(payload: dict) -> bool:
+    """Bot APIで送信。成功時True、失敗時False。"""
     url  = f"https://discord.com/api/v10/channels/{CHANNEL_ID}/messages"
     hdrs = {
         "Authorization":  f"Bot {BOT_TOKEN}",
@@ -522,13 +521,15 @@ def send_via_bot(payload: dict) -> None:
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             print(f"Discord Bot API: {r.status}")
+            return True
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", errors="ignore")
         print(f"Discord Bot ERROR {e.code}: {body}")
         if e.code == 400 and "components" in payload:
             print("ボタン除去して再送...")
             payload.pop("components", None)
-            send_via_bot(payload)
+            return send_via_bot(payload)
+        return False
 
 
 def send_via_webhook(payload: dict) -> None:
@@ -541,7 +542,10 @@ def send_via_webhook(payload: dict) -> None:
 
 def send_discord(payload: dict) -> None:
     if BOT_TOKEN and CHANNEL_ID:
-        send_via_bot(payload)
+        ok = send_via_bot(payload)
+        if not ok:
+            print("Bot API失敗 → Webhookにフォールバック")
+            send_via_webhook(payload)
     else:
         print("BOT_TOKEN/CHANNEL_ID 未設定 → Webhookで送信")
         send_via_webhook(payload)
