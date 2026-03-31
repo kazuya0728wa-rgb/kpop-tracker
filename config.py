@@ -1,10 +1,11 @@
-"""K-pop Tracker — グループ定義・情報源・全設定
+"""K-pop / J-pop Tracker — グループ定義・情報源・全設定
 
 グループの追加・削除・設定変更はこのファイルだけで完結する。
+チャンネルの切り替えは --channel 引数で行う。
 """
 
-# ── 対象グループ ──────────────────────────────────────────────────────────────
-GROUPS = [
+# ── K-pop グループ ────────────────────────────────────────────────────────────
+KPOP_GROUPS = [
     {
         "id": "ive",
         "name": "IVE",
@@ -108,6 +109,99 @@ GROUPS = [
         "google_news_query": "Hearts2Hearts ハーツトゥーハーツ Japan ライブ チケット カムバ",
     },
 ]
+
+# 後方互換
+GROUPS = KPOP_GROUPS
+
+# ── J-pop グループ ────────────────────────────────────────────────────────────
+JPOP_GROUPS = [
+    {
+        "id": "mrs_green_apple",
+        "name": "Mrs. GREEN APPLE",
+        "name_jp": "ミセスグリーンアップル",
+        "active": True,
+        "color": 0x00C853,       # 緑
+        "emoji": "🍏",
+        "x_account": "@AORINGOHUZIN",
+        "official_sites": [
+            {"type": "news", "url": "https://mrsgreenapple.com/news/1/", "parser": "generic_html"},
+        ],
+        "ticket_sites": [
+            {"site": "eplus",  "artist_id": "0000067821",      "active": True},
+            {"site": "lawson", "artist_id": "000000000590732",  "active": True},
+        ],
+        "google_news_query": "Mrs. GREEN APPLE ミセスグリーンアップル ライブ チケット ツアー",
+    },
+    {
+        "id": "timelesz",
+        "name": "timelesz",
+        "name_jp": "タイムレス",
+        "active": True,
+        "color": 0xE040FB,       # 紫
+        "emoji": "💫",
+        "x_account": "@OVTT_official",
+        "official_sites": [
+            {"type": "news", "url": "https://ovtp.jp/news", "parser": "generic_html"},
+        ],
+        "ticket_sites": [
+            {"site": "lawson", "artist_id": "000000000466383", "active": True},
+        ],
+        "google_news_query": "timelesz タイムレス ライブ チケット ツアー コンサート",
+    },
+    {
+        "id": "mr_children",
+        "name": "Mr.Children",
+        "name_jp": "ミスチル",
+        "active": True,
+        "color": 0xFFCA28,       # 黄
+        "emoji": "🎸",
+        "x_account": "@mc_official_jp",
+        "official_sites": [
+            {"type": "news", "url": "https://www.mrchildren.jp/news/", "parser": "generic_html"},
+        ],
+        "ticket_sites": [
+            {"site": "eplus",  "artist_id": "0000000819",      "active": True},
+            {"site": "lawson", "artist_id": "000000000012920",  "active": True},
+        ],
+        "google_news_query": "Mr.Children ミスチル ライブ チケット ツアー コンサート",
+    },
+    {
+        "id": "snow_man",
+        "name": "Snow Man",
+        "name_jp": "スノーマン",
+        "active": True,
+        "color": 0x42A5F5,       # 水色
+        "emoji": "❄️",
+        "x_account": "@SN__20200122",
+        "official_sites": [
+            {"type": "news", "url": "https://starto.jp/s/p/artist/43", "parser": "generic_html"},
+        ],
+        "ticket_sites": [
+            {"site": "lawson", "artist_id": "000000000822018", "active": True},
+        ],
+        "google_news_query": "Snow Man スノーマン ライブ チケット ツアー コンサート",
+    },
+]
+
+# ── チャンネル定義 ────────────────────────────────────────────────────────────
+CHANNELS = {
+    "kpop": {
+        "groups": KPOP_GROUPS,
+        "webhook_env": "DISCORD_WEBHOOK",
+        "bot_token_env": "DISCORD_BOT_TOKEN",
+        "channel_id_env": "DISCORD_CHANNEL_ID",
+        "title": "🎵 K-pop 最新情報ダイジェスト",
+        "curator_role": "K-popの日本活動情報に特化したキュレーター",
+    },
+    "jpop": {
+        "groups": JPOP_GROUPS,
+        "webhook_env": "DISCORD_WEBHOOK_JPOP",
+        "bot_token_env": "DISCORD_BOT_TOKEN",
+        "channel_id_env": "DISCORD_CHANNEL_ID_JPOP",
+        "title": "🎵 J-pop 最新情報ダイジェスト",
+        "curator_role": "J-popアーティストの最新活動情報に特化したキュレーター",
+    },
+}
 
 # ── チケットサイト定義 ────────────────────────────────────────────────────────
 TICKET_SITES = {

@@ -1,8 +1,8 @@
-"""K-pop最新情報ダイジェスト — GitHub Actions版
+"""K-pop / J-pop 最新情報ダイジェスト — GitHub Actions版
 
-対象: IVE / LE SSERAFIM / TWICE / NewJeans / Hearts2Hearts
 収集: チケット・イベント・カムバック・TV出演（日本限定）
 通知: 2日に1回 Discord Embed（チケット情報は特別強調）
+チャンネル切替: --channel kpop|jpop
 
 情報収集パイプライン:
   1. DuckDuckGo site:x.com 検索（公式JPアカウント）
@@ -13,6 +13,7 @@
 差分検出（SHA256）で既出除外 → DeepSeek API で重要度判定・要約 → Discord送信
 """
 
+import argparse
 import hashlib
 import json
 import os
@@ -30,19 +31,28 @@ from openai import OpenAI
 from duckduckgo_search import DDGS
 
 from config import (
-    GROUPS, TICKET_SITES,
+    CHANNELS, TICKET_SITES,
     TOP_N, MAX_CANDIDATES_PER_GROUP, HISTORY_RETENTION_DAYS,
     TWO_DAYS_AGO_HOURS, DDG_SLEEP_SEC,
 )
 
-# ── 環境変数 ──────────────────────────────────────────────────────────────────
-WEBHOOK      = os.environ["DISCORD_WEBHOOK"]
-BOT_TOKEN    = os.environ.get("DISCORD_BOT_TOKEN", "")
-CHANNEL_ID   = os.environ.get("DISCORD_CHANNEL_ID", "")
+# ── CLI引数 ───────────────────────────────────────────────────────────────────
+parser = argparse.ArgumentParser()
+parser.add_argument("--channel", default="kpop", choices=CHANNELS.keys())
+args = parser.parse_args()
+
+CHANNEL_CFG  = CHANNELS[args.channel]
+ACTIVE_GROUPS = CHANNEL_CFG["groups"]
+
+# ── 環境変数（チャンネル別） ──────────────────────────────────────────────────
+WEBHOOK      = os.environ[CHANNEL_CFG["webhook_env"]]
+BOT_TOKEN    = os.environ.get(CHANNEL_CFG["bot_token_env"], "")
+CHANNEL_ID   = os.environ.get(CHANNEL_CFG["channel_id_env"], "")
 DEEPSEEK_KEY = os.environ["DEEPSEEK_API_KEY"]
 
 DATA_DIR      = os.path.join(os.path.dirname(__file__), "data")
-HISTORY_FILE  = os.path.join(DATA_DIR, "history.json")
+HISTORY_FILE  = os.path.join(DATA_DIR, f"history_{args.channel}.json")
+LATEST_FILE   = os.path.join(DATA_DIR, f"latest_{args.channel}.json")
 JST           = timezone(timedelta(hours=9))
 CUTOFF_TIME   = datetime.now(timezone.utc) - timedelta(hours=TWO_DAYS_AGO_HOURS)
 
@@ -363,7 +373,7 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
 
     # グループ名リストを生成
     group_names = ", ".join(
-        f"{g['name']}({g['name_jp']})" for g in GROUPS if g["active"]
+        f"{g['name']}({g['name_jp']})" for g in ACTIVE_GROUPS if g["active"]
     )
 
     # 候補テキスト
@@ -375,11 +385,14 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
             f"   URL: {item['url']}{body}\n\n"
         )
 
-    prompt = f"""あなたはK-popの日本活動情報に特化したキュレーターです。
-今日は {now.strftime('%Y年%m月%d日')} です。
-対象グループ: {group_names}
+    # グループIDリスト（DeepSeekプロンプト用）
+    group_id_list = "/".join(g["id"] for g in ACTIVE_GROUPS if g["active"])
 
-以下はK-popグループの日本活動に関する候補リストです。
+    prompt = f"""あなたは{CHANNEL_CFG['curator_role']}です。
+今日は {now.strftime('%Y年%m月%d日')} です。
+対象アーティスト: {group_names}
+
+以下はアーティストの日本活動に関する候補リストです。
 
 {candidates}
 
@@ -389,7 +402,7 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
 [
   {{
     "rank": 1,
-    "group_id": "グループID（ive/le_sserafim/twice/newjeans/h2h）",
+    "group_id": "グループID（{group_id_list}）",
     "category": "カテゴリ（ticket/event/comeback/tv）",
     "dates": "関連する日程（例: '4/18(土)・4/19(日)'、'3/25 10:00受���開始'、不明なら'日程未定'）",
     "venue": "会場名（例: '京セラドーム大阪'、不明なら空文字）",
@@ -445,7 +458,7 @@ def curate_with_deepseek(items: list[dict], now: datetime) -> list[dict]:
 
 # ── Discord 送信 ───────────────────────────────────────────────────────────────
 def _get_group_by_id(group_id: str) -> dict | None:
-    for g in GROUPS:
+    for g in ACTIVE_GROUPS:
         if g["id"] == group_id:
             return g
     return None
@@ -502,7 +515,7 @@ def build_embeds(top_items: list[dict], now: datetime, total_collected: int) -> 
     color = 0xFFD700 if ticket_items else 0xFF69B4
 
     embed = {
-        "title":       "🎵 K-pop 最新情報ダイジェスト",
+        "title":       CHANNEL_CFG["title"],
         "description": (
             f"{now.strftime('%Y-%m-%d')}  ·  厳選 **{len(sorted_items)}件** / "
             f"収集 {total_collected}件中"
@@ -598,19 +611,18 @@ def save_details(top_items: list[dict]) -> None:
         "items": sorted_items,
         "groups": groups_data,
     }
-    path = os.path.join(DATA_DIR, "latest.json")
-    with open(path, "w", encoding="utf-8") as f:
+    with open(LATEST_FILE, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"詳細データ保存: {path}")
+    print(f"詳細データ保存: {LATEST_FILE}")
 
 
 # ── メイン ─────────────────────────────────────────────────────────────────────
 def main():
     now      = datetime.now(JST)
-    print(f"収集開始: {now.strftime('%Y-%m-%d %H:%M JST')}")
+    print(f"[{args.channel}] 収集開始: {now.strftime('%Y-%m-%d %H:%M JST')}")
 
-    active_groups = [g for g in GROUPS if g.get("active", False)]
-    print(f"対象グループ: {', '.join(g['name'] for g in active_groups)}")
+    active_groups = [g for g in ACTIVE_GROUPS if g.get("active", False)]
+    print(f"対象アーティスト: {', '.join(g['name'] for g in active_groups)}")
 
     all_items: list[dict] = []
 
