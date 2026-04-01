@@ -1,32 +1,56 @@
 {
-  "generated_at": "2026-03-31T15:42:26.315029+09:00",
+  "generated_at": "2026-04-01T12:21:37.530630+09:00",
   "items": [
     {
       "rank": 1,
-      "group_id": "ive",
-      "category": "comeback",
-      "dates": "日程未定",
+      "group_id": "newjeans",
+      "category": "event",
+      "dates": "2026年3月",
       "venue": "",
-      "headline": "IVE 日本4th EP『LUCID DREAM』先行配信曲「Fashion」配信キャンペーン実施",
-      "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」の配信キャンペーンが実施されることが決定しました。収録曲「Fashion」はApp Storeのキャンペーンソングにも起用されています。詳細な配信開始日は後日発表される見込みです。",
-      "detail": "IVEの日本4th EP『LUCID DREAM』のリリースに先立ち、収録曲「Fashion」が先行配信されることが発表されました。これに合わせて、配信キャンペーンが実施されます。さらに、同曲「Fashion」はApp Storeの「どんな一歩も、App Storeと。」キャンペーンソングに起用されることが明らかになりました。EPのタイトルやアーティスト写真、収録内容も同時に解禁されています。日本での新たな音楽活動の始まりとして、ファンからの注目を集めています。具体的な配信開始日やキャンペーンの詳細な内容については、公式サイトやSNSで順次発表されると予想されます。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3943&cd=OF10351",
-      "source": "IVE 公式"
+      "headline": "NewJeans 2026年3月 ライブスケジュール",
+      "summary": "NewJeansが2026年3月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
+      "detail": "NewJeansの公式サイトにて、2026年3月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
+      "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=3&category=LIVE",
+      "source": "NewJeans 公式"
+    },
+    {
+      "rank": 2,
+      "group_id": "newjeans",
+      "category": "event",
+      "dates": "2026年5月",
+      "venue": "",
+      "headline": "NewJeans 2026年5月 ライブスケジュール",
+      "summary": "NewJeansが2026年5月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
+      "detail": "NewJeansの公式サイトにて、2026年5月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
+      "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=5&category=LIVE",
+      "source": "NewJeans 公式"
     }
   ],
   "groups": {
-    "ive": [
+    "newjeans": [
       {
         "rank": 1,
-        "group_id": "ive",
-        "category": "comeback",
-        "dates": "日程未定",
+        "group_id": "newjeans",
+        "category": "event",
+        "dates": "2026年3月",
         "venue": "",
-        "headline": "IVE 日本4th EP『LUCID DREAM』先行配信曲「Fashion」配信キャンペーン実施",
-        "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」の配信キャンペーンが実施されることが決定しました。収録曲「Fashion」はApp Storeのキャンペーンソングにも起用されています。詳細な配信開始日は後日発表される見込みです。",
-        "detail": "IVEの日本4th EP『LUCID DREAM』のリリースに先立ち、収録曲「Fashion」が先行配信されることが発表されました。これに合わせて、配信キャンペーンが実施されます。さらに、同曲「Fashion」はApp Storeの「どんな一歩も、App Storeと。」キャンペーンソングに起用されることが明らかになりました。EPのタイトルやアーティスト写真、収録内容も同時に解禁されています。日本での新たな音楽活動の始まりとして、ファンからの注目を集めています。具体的な配信開始日やキャンペーンの詳細な内容については、公式サイトやSNSで順次発表されると予想されます。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3943&cd=OF10351",
-        "source": "IVE 公式"
+        "headline": "NewJeans 2026年3月 ライブスケジュール",
+        "summary": "NewJeansが2026年3月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
+        "detail": "NewJeansの公式サイトにて、2026年3月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
+        "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=3&category=LIVE",
+        "source": "NewJeans 公式"
+      },
+      {
+        "rank": 2,
+        "group_id": "newjeans",
+        "category": "event",
+        "dates": "2026年5月",
+        "venue": "",
+        "headline": "NewJeans 2026年5月 ライブスケジュール",
+        "summary": "NewJeansが2026年5月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
+        "detail": "NewJeansの公式サイトにて、2026年5月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
+        "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=5&category=LIVE",
+        "source": "NewJeans 公式"
       }
     ]
   }
