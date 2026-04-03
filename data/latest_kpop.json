@@ -1,56 +1,58 @@
 {
-  "generated_at": "2026-04-01T12:21:37.530630+09:00",
+  "generated_at": "2026-04-03T11:50:30.213034+09:00",
   "items": [
     {
       "rank": 1,
-      "group_id": "newjeans",
-      "category": "event",
-      "dates": "2026年3月",
+      "group_id": "ive",
+      "category": "ticket",
+      "dates": "一般発売(先着)",
       "venue": "",
-      "headline": "NewJeans 2026年3月 ライブスケジュール",
-      "summary": "NewJeansが2026年3月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
-      "detail": "NewJeansの公式サイトにて、2026年3月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
-      "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=3&category=LIVE",
-      "source": "NewJeans 公式"
+      "headline": "IVEワールドツアー日本公演 一般発売(先着)決定",
+      "summary": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演について、一般発売(先着)が決定しました。詳細な日程や会場、発売開始日時は公式サイトで確認できます。",
+      "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演の一般発売(先着)が決定しました。詳細な公演日程、会場、チケット発売開始日時については、公式サイトにて発表されています。ファンは公式情報を確認し、チケット購入の準備を進める必要があります。一般発売は先着順での販売となるため、確実に入手したい方は発売開始時刻に注意してください。チケットの購入方法や価格などの詳細も公式サイトにて案内されています。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4745&cd=OF10331",
+      "source": "IVE 公式"
     },
     {
       "rank": 2,
-      "group_id": "newjeans",
+      "group_id": "twice",
       "category": "event",
-      "dates": "2026年5月",
-      "venue": "",
-      "headline": "NewJeans 2026年5月 ライブスケジュール",
-      "summary": "NewJeansが2026年5月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
-      "detail": "NewJeansの公式サイトにて、2026年5月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
-      "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=5&category=LIVE",
-      "source": "NewJeans 公式"
+      "dates": "日程未定",
+      "venue": "MUFG国立競技場",
+      "headline": "TWICEワールドツアー国立競技場公演 U-NEXT独占生配信",
+      "summary": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。配信日時は未定です。",
+      "detail": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。これにより、会場に行けないファンもライブをリアルタイムで楽しむことができます。配信の具体的な日時や視聴方法については、U-NEXTやTWICEの公式情報を確認する必要があります。この独占配信を記念して、チケットプレゼント企画も実施される予定です。詳細は関連記事や公式発表を参照してください。",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nLWVHNWtVQ2dTa3g4bDZjb1hpbzR2ZHRTVmFxdTU3SEQ1eEhvRkV1cmYwVjFBNWNiWkRiejVCdG5lNVZIQ2dsRVN3?oc=5",
+      "source": "Google News"
     }
   ],
   "groups": {
-    "newjeans": [
+    "ive": [
       {
         "rank": 1,
-        "group_id": "newjeans",
-        "category": "event",
-        "dates": "2026年3月",
+        "group_id": "ive",
+        "category": "ticket",
+        "dates": "一般発売(先着)",
         "venue": "",
-        "headline": "NewJeans 2026年3月 ライブスケジュール",
-        "summary": "NewJeansが2026年3月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
-        "detail": "NewJeansの公式サイトにて、2026年3月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
-        "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=3&category=LIVE",
-        "source": "NewJeans 公式"
-      },
+        "headline": "IVEワールドツアー日本公演 一般発売(先着)決定",
+        "summary": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演について、一般発売(先着)が決定しました。詳細な日程や会場、発売開始日時は公式サイトで確認できます。",
+        "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演の一般発売(先着)が決定しました。詳細な公演日程、会場、チケット発売開始日時については、公式サイトにて発表されています。ファンは公式情報を確認し、チケット購入の準備を進める必要があります。一般発売は先着順での販売となるため、確実に入手したい方は発売開始時刻に注意してください。チケットの購入方法や価格などの詳細も公式サイトにて案内されています。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4745&cd=OF10331",
+        "source": "IVE 公式"
+      }
+    ],
+    "twice": [
       {
         "rank": 2,
-        "group_id": "newjeans",
+        "group_id": "twice",
         "category": "event",
-        "dates": "2026年5月",
-        "venue": "",
-        "headline": "NewJeans 2026年5月 ライブスケジュール",
-        "summary": "NewJeansが2026年5月にライブを開催予定です。詳細な日程や会場については、公式サイトで確認できます。今後の詳細発表に注目です。",
-        "detail": "NewJeansの公式サイトにて、2026年5月のライブスケジュールが掲載されています。現時点では具体的な公演日や会場、チケット販売に関する詳細は未発表です。ファンは公式サイトを定期的にチェックし、今後の詳細な発表を待つ必要があります。日本での活動が活発になることが期待されます。今後の情報更新に注目しましょう。",
-        "url": "https://www.newjeans.jp/posts/schedule?year=2026&month=5&category=LIVE",
-        "source": "NewJeans 公式"
+        "dates": "日程未定",
+        "venue": "MUFG国立競技場",
+        "headline": "TWICEワールドツアー国立競技場公演 U-NEXT独占生配信",
+        "summary": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。配信日時は未定です。",
+        "detail": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。これにより、会場に行けないファンもライブをリアルタイムで楽しむことができます。配信の具体的な日時や視聴方法については、U-NEXTやTWICEの公式情報を確認する必要があります。この独占配信を記念して、チケットプレゼント企画も実施される予定です。詳細は関連記事や公式発表を参照してください。",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nLWVHNWtVQ2dTa3g4bDZjb1hpbzR2ZHRTVmFxdTU3SEQ1eEhvRkV1cmYwVjFBNWNiWkRiejVCdG5lNVZIQ2dsRVN3?oc=5",
+        "source": "Google News"
       }
     ]
   }
