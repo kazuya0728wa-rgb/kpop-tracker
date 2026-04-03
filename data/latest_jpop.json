@@ -1,32 +1,58 @@
 {
-  "generated_at": "2026-04-01T12:24:31.022649+09:00",
+  "generated_at": "2026-04-03T11:53:17.991647+09:00",
   "items": [
     {
       "rank": 1,
-      "group_id": "mr_children",
-      "category": "ticket",
+      "group_id": "timelesz",
+      "category": "comeback",
       "dates": "日程未定",
       "venue": "",
-      "headline": "ミスチルチケット倍率・取り方完全ガイド 日程未定",
-      "summary": "ミスチルのチケットの倍率や取り方についての完全ガイド記事。一般発売の日程や当選確率を上げる具体的な方法が解説されている。詳細な日程は記事内で確認する必要がある。",
-      "detail": "ミスチルのチケット入手に関する詳細なガイド記事。チケットの倍率や、当選確率を向上させるための具体的な方法がまとめられている。一般発売の日程についても言及されているが、記事の一部しか表示されていないため、詳細な日時は元記事で確認する必要がある。チケットの購入を検討しているファンは、事前に情報を収集し、複数の販売方法を活用することが推奨されている。公式サイトやファンクラブからの先行抽選、一般発売など、各販売フェーズの特徴を理解しておくことが重要だ。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80U1F2U2RhcGxLaVoxMEFLT1l5MWl0Vm5JVjlEaG8yYzFCaVB6QjFHYVVlejV6M3dFMnJvUzZLLV9QZEVTdVJ1ejZpeV9MYU9Z?oc=5",
-      "source": "Google News"
+      "headline": "timelesz新曲MVティーザー公開 日程未定",
+      "summary": "timeleszが新曲「４分間だけ時間をください」のミュージックビデオティーザーを公開しました。リリース日や詳細な日程は現時点で未定です。新曲のリリースに向けての動きが始まっています。",
+      "detail": "timeleszが新曲「４分間だけ時間をください」のミュージックビデオティーザーをYouTubeで公開しました。このティーザー公開は、新曲リリースに向けたプロモーションの第一歩となります。現時点では、楽曲の正式なリリース日や、ミュージックビデオのフルバージョン公開日、関連するイベントの日程などは発表されていません。ファンは公式YouTubeチャンネルでティーザー映像を視聴することができます。今後の詳細な発表に注目が集まります。",
+      "url": "https://youtu.be/XG5ITa1oCSE",
+      "source": "timelesz 公式"
+    },
+    {
+      "rank": 2,
+      "group_id": "mrs_green_apple",
+      "category": "event",
+      "dates": "日程未定",
+      "venue": "",
+      "headline": "Mrs. GREEN APPLE楽曲 CM起用 日程未定",
+      "summary": "Mrs. GREEN APPLEの楽曲『春愁』『僕のこと』が、ユニバーサルミュージックの「#春うたベスト50」キャンペーン新CMに起用されました。CMの具体的な放送開始日や期間は現時点で未定です。",
+      "detail": "Mrs. GREEN APPLEの楽曲『春愁』と『僕のこと』が、ユニバーサルミュージックが展開する「#春うたベスト50」キャンペーンの新CMに起用されることが決定しました。このキャンペーンは、春に聴きたい楽曲を集めたものです。CMを通じて、より多くのリスナーに楽曲が届けられることが期待されます。現時点では、CMの具体的な放送開始日や、どのメディアで放送されるのかなどの詳細な日程・情報は発表されていません。公式サイトやSNSで今後の詳細が発表されるのを待ちましょう。",
+      "url": "https://mrsgreenapple.com/news/detail/22433",
+      "source": "Mrs. GREEN APPLE 公式"
     }
   ],
   "groups": {
-    "mr_children": [
+    "timelesz": [
       {
         "rank": 1,
-        "group_id": "mr_children",
-        "category": "ticket",
+        "group_id": "timelesz",
+        "category": "comeback",
         "dates": "日程未定",
         "venue": "",
-        "headline": "ミスチルチケット倍率・取り方完全ガイド 日程未定",
-        "summary": "ミスチルのチケットの倍率や取り方についての完全ガイド記事。一般発売の日程や当選確率を上げる具体的な方法が解説されている。詳細な日程は記事内で確認する必要がある。",
-        "detail": "ミスチルのチケット入手に関する詳細なガイド記事。チケットの倍率や、当選確率を向上させるための具体的な方法がまとめられている。一般発売の日程についても言及されているが、記事の一部しか表示されていないため、詳細な日時は元記事で確認する必要がある。チケットの購入を検討しているファンは、事前に情報を収集し、複数の販売方法を活用することが推奨されている。公式サイトやファンクラブからの先行抽選、一般発売など、各販売フェーズの特徴を理解しておくことが重要だ。",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80U1F2U2RhcGxLaVoxMEFLT1l5MWl0Vm5JVjlEaG8yYzFCaVB6QjFHYVVlejV6M3dFMnJvUzZLLV9QZEVTdVJ1ejZpeV9MYU9Z?oc=5",
-        "source": "Google News"
+        "headline": "timelesz新曲MVティーザー公開 日程未定",
+        "summary": "timeleszが新曲「４分間だけ時間をください」のミュージックビデオティーザーを公開しました。リリース日や詳細な日程は現時点で未定です。新曲のリリースに向けての動きが始まっています。",
+        "detail": "timeleszが新曲「４分間だけ時間をください」のミュージックビデオティーザーをYouTubeで公開しました。このティーザー公開は、新曲リリースに向けたプロモーションの第一歩となります。現時点では、楽曲の正式なリリース日や、ミュージックビデオのフルバージョン公開日、関連するイベントの日程などは発表されていません。ファンは公式YouTubeチャンネルでティーザー映像を視聴することができます。今後の詳細な発表に注目が集まります。",
+        "url": "https://youtu.be/XG5ITa1oCSE",
+        "source": "timelesz 公式"
+      }
+    ],
+    "mrs_green_apple": [
+      {
+        "rank": 2,
+        "group_id": "mrs_green_apple",
+        "category": "event",
+        "dates": "日程未定",
+        "venue": "",
+        "headline": "Mrs. GREEN APPLE楽曲 CM起用 日程未定",
+        "summary": "Mrs. GREEN APPLEの楽曲『春愁』『僕のこと』が、ユニバーサルミュージックの「#春うたベスト50」キャンペーン新CMに起用されました。CMの具体的な放送開始日や期間は現時点で未定です。",
+        "detail": "Mrs. GREEN APPLEの楽曲『春愁』と『僕のこと』が、ユニバーサルミュージックが展開する「#春うたベスト50」キャンペーンの新CMに起用されることが決定しました。このキャンペーンは、春に聴きたい楽曲を集めたものです。CMを通じて、より多くのリスナーに楽曲が届けられることが期待されます。現時点では、CMの具体的な放送開始日や、どのメディアで放送されるのかなどの詳細な日程・情報は発表されていません。公式サイトやSNSで今後の詳細が発表されるのを待ちましょう。",
+        "url": "https://mrsgreenapple.com/news/detail/22433",
+        "source": "Mrs. GREEN APPLE 公式"
       }
     ]
   }
