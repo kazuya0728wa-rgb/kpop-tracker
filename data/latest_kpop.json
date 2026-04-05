@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-03T11:50:30.213034+09:00",
+  "generated_at": "2026-04-05T11:58:28.372591+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
       "category": "ticket",
-      "dates": "一般発売(先着)",
+      "dates": "日程未定",
       "venue": "",
-      "headline": "IVEワールドツアー日本公演 一般発売(先着)決定",
-      "summary": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演について、一般発売(先着)が決定しました。詳細な日程や会場、発売開始日時は公式サイトで確認できます。",
-      "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演の一般発売(先着)が決定しました。詳細な公演日程、会場、チケット発売開始日時については、公式サイトにて発表されています。ファンは公式情報を確認し、チケット購入の準備を進める必要があります。一般発売は先着順での販売となるため、確実に入手したい方は発売開始時刻に注意してください。チケットの購入方法や価格などの詳細も公式サイトにて案内されています。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4745&cd=OF10331",
+      "headline": "IVE 2ndアルバム シリアルナンバー応募抽選イベント 日程未定",
+      "summary": "IVEの2ndアルバムに付属するシリアルナンバーによる応募抽選スペシャルイベントの開催が発表された。詳細な日程や会場は現時点で未定であり、公式サイトで今後案内される予定。",
+      "detail": "IVEの日本公式サイトにて、2ndアルバムに付属するシリアルナンバーを用いた応募抽選スペシャルイベントの開催が告知されました。このイベントはアルバム購入者を対象とした特典企画となります。現時点では具体的な開催日程や会場の詳細は決定しておらず、今後の公式発表を待つ必要があります。応募方法や抽選の詳細、当選後の流れについては、公式サイトの該当記事で確認できます。ファンはアルバムを購入し、シリアルナンバーを確保しておく必要があります。詳細が決まり次第、公式サイトやSNSで随時情報が更新される予定です。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5546&cd=OF10353",
       "source": "IVE 公式"
     },
     {
       "rank": 2,
-      "group_id": "twice",
-      "category": "event",
-      "dates": "日程未定",
-      "venue": "MUFG国立競技場",
-      "headline": "TWICEワールドツアー国立競技場公演 U-NEXT独占生配信",
-      "summary": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。配信日時は未定です。",
-      "detail": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。これにより、会場に行けないファンもライブをリアルタイムで楽しむことができます。配信の具体的な日時や視聴方法については、U-NEXTやTWICEの公式情報を確認する必要があります。この独占配信を記念して、チケットプレゼント企画も実施される予定です。詳細は関連記事や公式発表を参照してください。",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nLWVHNWtVQ2dTa3g4bDZjb1hpbzR2ZHRTVmFxdTU3SEQ1eEhvRkV1cmYwVjFBNWNiWkRiejVCdG5lNVZIQ2dsRVN3?oc=5",
-      "source": "Google News"
+      "group_id": "ive",
+      "category": "comeback",
+      "dates": "2026.04.03",
+      "venue": "",
+      "headline": "IVE 日本4th EP先行曲「Fashion」4/3配信開始",
+      "summary": "IVEの日本4th EP『LUCID DREAM』からの先行配信曲「Fashion」が、2026年4月3日に各音楽配信サービスでリリースされた。本作は日本での新たな活動の第一弾となる楽曲。",
+      "detail": "IVEの日本公式サイトにて、日本4th EP『LUCID DREAM』からの先行配信曲「Fashion」のリリースが発表されました。この楽曲は2026年4月3日より、Apple Music、Spotify、LINE MUSICなどの主要な音楽配信サービスで配信が開始されています。『LUCID DREAM』はIVEの日本における新たなミニアルバムであり、その先行曲として「Fashion」が選ばれました。これにより、IVEの日本での音楽活動が新章を迎えたことが示されています。ファンは配信サービスを通じて、いち早く新曲を楽しむことが可能です。今後のアルバム全体の発売に関する詳細は、引き続き公式発表を待ちましょう。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5546&cd=OF10352",
+      "source": "IVE 公式"
     }
   ],
   "groups": {
@@ -32,27 +32,25 @@
         "rank": 1,
         "group_id": "ive",
         "category": "ticket",
-        "dates": "一般発売(先着)",
+        "dates": "日程未定",
         "venue": "",
-        "headline": "IVEワールドツアー日本公演 一般発売(先着)決定",
-        "summary": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演について、一般発売(先着)が決定しました。詳細な日程や会場、発売開始日時は公式サイトで確認できます。",
-        "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演の一般発売(先着)が決定しました。詳細な公演日程、会場、チケット発売開始日時については、公式サイトにて発表されています。ファンは公式情報を確認し、チケット購入の準備を進める必要があります。一般発売は先着順での販売となるため、確実に入手したい方は発売開始時刻に注意してください。チケットの購入方法や価格などの詳細も公式サイトにて案内されています。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4745&cd=OF10331",
+        "headline": "IVE 2ndアルバム シリアルナンバー応募抽選イベント 日程未定",
+        "summary": "IVEの2ndアルバムに付属するシリアルナンバーによる応募抽選スペシャルイベントの開催が発表された。詳細な日程や会場は現時点で未定であり、公式サイトで今後案内される予定。",
+        "detail": "IVEの日本公式サイトにて、2ndアルバムに付属するシリアルナンバーを用いた応募抽選スペシャルイベントの開催が告知されました。このイベントはアルバム購入者を対象とした特典企画となります。現時点では具体的な開催日程や会場の詳細は決定しておらず、今後の公式発表を待つ必要があります。応募方法や抽選の詳細、当選後の流れについては、公式サイトの該当記事で確認できます。ファンはアルバムを購入し、シリアルナンバーを確保しておく必要があります。詳細が決まり次第、公式サイトやSNSで随時情報が更新される予定です。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5546&cd=OF10353",
         "source": "IVE 公式"
-      }
-    ],
-    "twice": [
+      },
       {
         "rank": 2,
-        "group_id": "twice",
-        "category": "event",
-        "dates": "日程未定",
-        "venue": "MUFG国立競技場",
-        "headline": "TWICEワールドツアー国立競技場公演 U-NEXT独占生配信",
-        "summary": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。配信日時は未定です。",
-        "detail": "TWICEのワールドツアー「THIS IS FOR」のMUFG国立競技場公演が、U-NEXTで独占生ライブ配信されることが発表されました。これにより、会場に行けないファンもライブをリアルタイムで楽しむことができます。配信の具体的な日時や視聴方法については、U-NEXTやTWICEの公式情報を確認する必要があります。この独占配信を記念して、チケットプレゼント企画も実施される予定です。詳細は関連記事や公式発表を参照してください。",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nLWVHNWtVQ2dTa3g4bDZjb1hpbzR2ZHRTVmFxdTU3SEQ1eEhvRkV1cmYwVjFBNWNiWkRiejVCdG5lNVZIQ2dsRVN3?oc=5",
-        "source": "Google News"
+        "group_id": "ive",
+        "category": "comeback",
+        "dates": "2026.04.03",
+        "venue": "",
+        "headline": "IVE 日本4th EP先行曲「Fashion」4/3配信開始",
+        "summary": "IVEの日本4th EP『LUCID DREAM』からの先行配信曲「Fashion」が、2026年4月3日に各音楽配信サービスでリリースされた。本作は日本での新たな活動の第一弾となる楽曲。",
+        "detail": "IVEの日本公式サイトにて、日本4th EP『LUCID DREAM』からの先行配信曲「Fashion」のリリースが発表されました。この楽曲は2026年4月3日より、Apple Music、Spotify、LINE MUSICなどの主要な音楽配信サービスで配信が開始されています。『LUCID DREAM』はIVEの日本における新たなミニアルバムであり、その先行曲として「Fashion」が選ばれました。これにより、IVEの日本での音楽活動が新章を迎えたことが示されています。ファンは配信サービスを通じて、いち早く新曲を楽しむことが可能です。今後のアルバム全体の発売に関する詳細は、引き続き公式発表を待ちましょう。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5546&cd=OF10352",
+        "source": "IVE 公式"
       }
     ]
   }
