@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-04-09T11:48:59.821253+09:00",
+  "generated_at": "2026-04-11T11:45:45.240474+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
       "category": "ticket",
       "dates": "日程未定",
-      "venue": "京セラドーム大阪",
-      "headline": "IVE日本ツアー京セラドーム公演 チケットリセール日程未定",
-      "summary": "IVEの日本ツアー「SHOW WHAT I AM」京セラドーム大阪公演において、チケットのリセールが行われる。具体的な日程や受付開始時間は、公式サイトで発表される。詳細は公式サイトの案内を確認すること。",
-      "detail": "IVEのワールドツアー「SHOW WHAT I AM」の日本公演のうち、京セラドーム大阪公演でチケットリセールが実施される。リセールとは、キャンセルなどにより発生したチケットを再度販売するもので、チケットをまだ購入できていないファンにとって重要な機会となる。具体的なリセールの日程や受付開始時間、販売方法については、公式サイトにて詳細が発表される予定である。購入を希望するファンは、IVE公式サイトのニュースやチケット情報ページを定期的にチェックする必要がある。このリセールは、追加でチケットを確保したいファンや、これまで購入機会を逃していたファンにとって最後のチャンスとなる可能性がある。詳細な情報は、公式サイトの案内に従って確認すること。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4628&cd=OF10358",
+      "venue": "",
+      "headline": "IVE 日本ツアーグッズ会場販売詳細決定 日程未定",
+      "summary": "IVEの日本ワールドツアー『SHOW WHAT I AM』のグッズ会場販売の詳細が決定しました。具体的な販売日程や会場での販売方法については、公式サイトで確認できます。",
+      "detail": "IVEの日本ワールドツアー『SHOW WHAT I AM』にて、会場で販売されるグッズの詳細が発表されました。販売される商品の種類や価格、購入方法に関する情報が公開されています。ツアー日程に合わせて各会場で販売が行われる予定です。詳細な販売スケジュールや各会場での取り扱いについては、公式サイトを確認する必要があります。ファンは事前に情報をチェックし、当日の購入に備えることができます。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10359",
       "source": "IVE 公式"
+    },
+    {
+      "rank": 2,
+      "group_id": "ive",
+      "category": "comeback",
+      "dates": "日程未定",
+      "venue": "",
+      "headline": "IVE 日本4th EP『LUCID DREAM』発売記念オンライン抽選",
+      "summary": "IVEの日本4th EP『LUCID DREAM』の発売を記念し、Sony Music Shop限定の「オンラインラッキードローイベント」が開催されます。応募期間や当選者発表の日程は公式サイトで確認してください。",
+      "detail": "IVEの日本4th EP『LUCID DREAM』の発売を記念して、Sony Music Shop限定の「オンラインラッキードローイベント」の開催が決定しました。このイベントは、対象商品を購入した人が応募できる抽選企画です。応募方法や対象商品の詳細はSony Music Shopの特設ページにて案内されています。応募期間や当選者発表の日程については、公式発表を確認する必要があります。ファンは新作EPの発売と合わせて、特典イベントにも参加できます。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10357",
+      "source": "IVE 公式"
+    },
+    {
+      "rank": 3,
+      "group_id": "ive",
+      "category": "comeback",
+      "dates": "4/03",
+      "venue": "",
+      "headline": "IVE 日本4th EPより「Fashion」先行配信開始 4/03",
+      "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」が4月3日より配信リリースされました。アルバム発売に先立ち、新曲を楽しむことができます。",
+      "detail": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」が4月3日に配信リリースされました。このリリースにより、ファンはアルバムの全貌が明らかになる前に新曲を聴くことができます。配信は主要な音楽ストリーミングサービスおよびダウンロードサイトで行われています。これに先立ち、ミュージックビデオやプロモーションコンテンツも公開される可能性があります。今後のアルバムプロモーションやリリースイベントにも注目が集まります。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10352",
+      "source": "IVE 公式"
+    },
+    {
+      "rank": 4,
+      "group_id": "h2h",
+      "category": "event",
+      "dates": "日程未定",
+      "venue": "TOKYO",
+      "headline": "Hearts2Hearts 来日登壇イベント開催 日程未定",
+      "summary": "Hearts2Heartsが来日し、『2aN SCHOOL in TOKYO』オープン記念イベントに登壇しました。イベントレポートが公開され、カムバック曲がSNSで話題沸騰中です。",
+      "detail": "Hearts2Heartsが来日し、東京で開催された『2aN SCHOOL in TOKYO』オープン記念イベントに登壇しました。このイベントでは、グループの近況や活動について語られ、ファンとの交流が行われました。イベントレポートによると、彼女たちのカムバック曲がSNSで大きな話題を呼んでいます。今後の日本での具体的な活動スケジュールについては、まだ詳細が明らかになっていません。ファンは今後の公式発表を待つことになります。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40cXNQbXB0WnlmTkhxeFZUTFFPQWlYYTBYV19KdnR3dVd3bUhwQmxLOTc1c0FSUTVJaE1ibkFWMEdudFYxa3c?oc=5",
+      "source": "Google News"
     }
   ],
   "groups": {
@@ -21,12 +57,50 @@
         "group_id": "ive",
         "category": "ticket",
         "dates": "日程未定",
-        "venue": "京セラドーム大阪",
-        "headline": "IVE日本ツアー京セラドーム公演 チケットリセール日程未定",
-        "summary": "IVEの日本ツアー「SHOW WHAT I AM」京セラドーム大阪公演において、チケットのリセールが行われる。具体的な日程や受付開始時間は、公式サイトで発表される。詳細は公式サイトの案内を確認すること。",
-        "detail": "IVEのワールドツアー「SHOW WHAT I AM」の日本公演のうち、京セラドーム大阪公演でチケットリセールが実施される。リセールとは、キャンセルなどにより発生したチケットを再度販売するもので、チケットをまだ購入できていないファンにとって重要な機会となる。具体的なリセールの日程や受付開始時間、販売方法については、公式サイトにて詳細が発表される予定である。購入を希望するファンは、IVE公式サイトのニュースやチケット情報ページを定期的にチェックする必要がある。このリセールは、追加でチケットを確保したいファンや、これまで購入機会を逃していたファンにとって最後のチャンスとなる可能性がある。詳細な情報は、公式サイトの案内に従って確認すること。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4628&cd=OF10358",
+        "venue": "",
+        "headline": "IVE 日本ツアーグッズ会場販売詳細決定 日程未定",
+        "summary": "IVEの日本ワールドツアー『SHOW WHAT I AM』のグッズ会場販売の詳細が決定しました。具体的な販売日程や会場での販売方法については、公式サイトで確認できます。",
+        "detail": "IVEの日本ワールドツアー『SHOW WHAT I AM』にて、会場で販売されるグッズの詳細が発表されました。販売される商品の種類や価格、購入方法に関する情報が公開されています。ツアー日程に合わせて各会場で販売が行われる予定です。詳細な販売スケジュールや各会場での取り扱いについては、公式サイトを確認する必要があります。ファンは事前に情報をチェックし、当日の購入に備えることができます。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10359",
         "source": "IVE 公式"
+      },
+      {
+        "rank": 2,
+        "group_id": "ive",
+        "category": "comeback",
+        "dates": "日程未定",
+        "venue": "",
+        "headline": "IVE 日本4th EP『LUCID DREAM』発売記念オンライン抽選",
+        "summary": "IVEの日本4th EP『LUCID DREAM』の発売を記念し、Sony Music Shop限定の「オンラインラッキードローイベント」が開催されます。応募期間や当選者発表の日程は公式サイトで確認してください。",
+        "detail": "IVEの日本4th EP『LUCID DREAM』の発売を記念して、Sony Music Shop限定の「オンラインラッキードローイベント」の開催が決定しました。このイベントは、対象商品を購入した人が応募できる抽選企画です。応募方法や対象商品の詳細はSony Music Shopの特設ページにて案内されています。応募期間や当選者発表の日程については、公式発表を確認する必要があります。ファンは新作EPの発売と合わせて、特典イベントにも参加できます。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10357",
+        "source": "IVE 公式"
+      },
+      {
+        "rank": 3,
+        "group_id": "ive",
+        "category": "comeback",
+        "dates": "4/03",
+        "venue": "",
+        "headline": "IVE 日本4th EPより「Fashion」先行配信開始 4/03",
+        "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」が4月3日より配信リリースされました。アルバム発売に先立ち、新曲を楽しむことができます。",
+        "detail": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」が4月3日に配信リリースされました。このリリースにより、ファンはアルバムの全貌が明らかになる前に新曲を聴くことができます。配信は主要な音楽ストリーミングサービスおよびダウンロードサイトで行われています。これに先立ち、ミュージックビデオやプロモーションコンテンツも公開される可能性があります。今後のアルバムプロモーションやリリースイベントにも注目が集まります。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4239&cd=OF10352",
+        "source": "IVE 公式"
+      }
+    ],
+    "h2h": [
+      {
+        "rank": 4,
+        "group_id": "h2h",
+        "category": "event",
+        "dates": "日程未定",
+        "venue": "TOKYO",
+        "headline": "Hearts2Hearts 来日登壇イベント開催 日程未定",
+        "summary": "Hearts2Heartsが来日し、『2aN SCHOOL in TOKYO』オープン記念イベントに登壇しました。イベントレポートが公開され、カムバック曲がSNSで話題沸騰中です。",
+        "detail": "Hearts2Heartsが来日し、東京で開催された『2aN SCHOOL in TOKYO』オープン記念イベントに登壇しました。このイベントでは、グループの近況や活動について語られ、ファンとの交流が行われました。イベントレポートによると、彼女たちのカムバック曲がSNSで大きな話題を呼んでいます。今後の日本での具体的な活動スケジュールについては、まだ詳細が明らかになっていません。ファンは今後の公式発表を待つことになります。",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40cXNQbXB0WnlmTkhxeFZUTFFPQWlYYTBYV19KdnR3dVd3bUhwQmxLOTc1c0FSUTVJaE1ibkFWMEdudFYxa3c?oc=5",
+        "source": "Google News"
       }
     ]
   }
