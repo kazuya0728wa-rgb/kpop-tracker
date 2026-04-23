@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-04-21T12:25:04.007277+09:00",
+  "generated_at": "2026-04-23T12:27:41.404880+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "mrs_green_apple",
+      "category": "ticket",
+      "dates": "日程未定",
+      "venue": "",
+      "headline": "Mrs. GREEN APPLE『CEREMONY』会員限定チケット最速先行受付開始",
+      "summary": "Mrs. GREEN APPLEが新たなイベント『CEREMONY』を開催し、公式ファンクラブ『Ringo Jam』の会員限定でチケットの最速先行受付を開始しました。詳細な公演日程や会場は現時点では未発表です。ファンクラブ会員は特設サイトから申し込みが可能です。",
+      "detail": "Mrs. GREEN APPLEが新たなイベント『CEREMONY』の開催を発表しました。現在、特設サイトが公開されており、公式ファンクラブ『Ringo Jam』の会員（年会員・月会員）を対象としたチケットの最速先行受付が開始されています。具体的な公演日程、開催会場、公演内容などの詳細は、現時点では明らかになっていません。今後の情報は公式サイトやファンクラブで随時発表されると見られます。ファンクラブ会員は、公開された特設サイトから申し込み手続きを行うことができます。この先行受付は、一般発売に先立つ最も早いチケット入手の機会となります。",
+      "url": "https://mrsgreenapple.com/news/detail/22478",
+      "source": "Mrs. GREEN APPLE 公式"
+    },
+    {
+      "rank": 2,
+      "group_id": "mrs_green_apple",
       "category": "event",
       "dates": "日程未定",
-      "venue": "国立競技場",
-      "headline": "Mrs. GREEN APPLE 国立競技場ライブに7万人集結 日程未定",
-      "summary": "Mrs. GREEN APPLEが国立競技場でのライブを開催し、7万人のファンが集結しました。4日間の開催は嵐以来2組目、バンドでは史上初の快挙となります。詳細な日程は現時点で未定です。",
-      "detail": "Mrs. GREEN APPLEが国立競技場でのライブ「ゼンジン未到とイ／ミュータブル〜間奏編〜」を開催し、7万人のファン「JAM’S」が集結しました。この4日間の開催は、嵐以来となる史上2組目の記録であり、バンドとしては史上初の快挙です。ライブは大成功を収め、アーティストとファンが一体となった特別な時間となりました。今後の詳細なライブ日程やチケット情報については、公式サイトやSNSで随時発表される予定です。ファンは今後の情報公開に注目する必要があります。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4ZVFkSEpDT012YTcwdmkwLWlUUGtBM25mNU9GdWRWeE5TU2U4S0c4cl9PMl9adGEzZE1kd000enQ5WEhxZE9jdXYtQjlRN04xbnh5T2JyR1NSaDU5Z2RGeTM4X21WbVIzM2tmVnVBQmhLTFRTaWszX2Zn?oc=5",
-      "source": "Google News"
+      "venue": "東京ディズニーリゾート",
+      "headline": "Mrs. GREEN APPLE 東京ディズニーリゾート夏イベントコラボ決定",
+      "summary": "Mrs. GREEN APPLEが、東京ディズニーリゾートで開催される夏のスペシャルイベント「サマー・クールオフ」とのコラボレーションを今年も行うことが決定しました。具体的なコラボ内容や実施期間などの詳細は、今後発表される予定です。",
+      "detail": "Mrs. GREEN APPLEが、東京ディズニーリゾートで開催される夏のスペシャルイベント「サマー・クールオフ at Tokyo Disney Resort®」とのコラボレーションを今年も行うことが発表されました。このコラボは昨年に続いて2回目の実施となります。現時点では、コラボの具体的な内容（例：特別楽曲の提供、パーク内での映像や音楽の使用、関連グッズの発売など）や、コラボが行われる正確な期間は明らかになっていません。詳細な情報は、東京ディズニーリゾートおよびMrs. GREEN APPLEの公式チャンネルを通じて、順次発表されていく見込みです。夏のディズニーリゾートを彩る音楽コラボとして注目されます。",
+      "url": "https://mrsgreenapple.com/news/detail/22497",
+      "source": "Mrs. GREEN APPLE 公式"
+    },
+    {
+      "rank": 3,
+      "group_id": "timelesz",
+      "category": "comeback",
+      "dates": "4/29(水)",
+      "venue": "",
+      "headline": "timelesz ニューアルバム『MOMENTUM』4/29発売",
+      "summary": "timeleszのニューアルバム『MOMENTUM』が4月29日(水)に発売されます。全曲の試聴が既に開始されており、ストリーミング映像のダイジェストも公開されています。新曲「あくび」のミュージックビデオのティーザー映像も公開中です。",
+      "detail": "timeleszのニューアルバム『MOMENTUM』が、2026年4月29日(水)にリリースされます。本作の発売に先立ち、公式YouTubeチャンネルでは収録曲「あくび」のミュージックビデオのティーザー映像が公開されています。また、アルバムのストリーミング映像のダイジェスト版も公開され、作品の世界観を垣間見ることができます。さらに、アルバムの全曲試聴が既に開始されており、ファンは発売前に全曲をチェックできる状態です。これにより、アルバムの発売に向けて期待が高まっています。今後のさらなるプロモーション展開にも注目が集まります。",
+      "url": "https://ovtp.jp/9116749",
+      "source": "timelesz 公式"
     }
   ],
   "groups": {
@@ -19,14 +43,40 @@
       {
         "rank": 1,
         "group_id": "mrs_green_apple",
+        "category": "ticket",
+        "dates": "日程未定",
+        "venue": "",
+        "headline": "Mrs. GREEN APPLE『CEREMONY』会員限定チケット最速先行受付開始",
+        "summary": "Mrs. GREEN APPLEが新たなイベント『CEREMONY』を開催し、公式ファンクラブ『Ringo Jam』の会員限定でチケットの最速先行受付を開始しました。詳細な公演日程や会場は現時点では未発表です。ファンクラブ会員は特設サイトから申し込みが可能です。",
+        "detail": "Mrs. GREEN APPLEが新たなイベント『CEREMONY』の開催を発表しました。現在、特設サイトが公開されており、公式ファンクラブ『Ringo Jam』の会員（年会員・月会員）を対象としたチケットの最速先行受付が開始されています。具体的な公演日程、開催会場、公演内容などの詳細は、現時点では明らかになっていません。今後の情報は公式サイトやファンクラブで随時発表されると見られます。ファンクラブ会員は、公開された特設サイトから申し込み手続きを行うことができます。この先行受付は、一般発売に先立つ最も早いチケット入手の機会となります。",
+        "url": "https://mrsgreenapple.com/news/detail/22478",
+        "source": "Mrs. GREEN APPLE 公式"
+      },
+      {
+        "rank": 2,
+        "group_id": "mrs_green_apple",
         "category": "event",
         "dates": "日程未定",
-        "venue": "国立競技場",
-        "headline": "Mrs. GREEN APPLE 国立競技場ライブに7万人集結 日程未定",
-        "summary": "Mrs. GREEN APPLEが国立競技場でのライブを開催し、7万人のファンが集結しました。4日間の開催は嵐以来2組目、バンドでは史上初の快挙となります。詳細な日程は現時点で未定です。",
-        "detail": "Mrs. GREEN APPLEが国立競技場でのライブ「ゼンジン未到とイ／ミュータブル〜間奏編〜」を開催し、7万人のファン「JAM’S」が集結しました。この4日間の開催は、嵐以来となる史上2組目の記録であり、バンドとしては史上初の快挙です。ライブは大成功を収め、アーティストとファンが一体となった特別な時間となりました。今後の詳細なライブ日程やチケット情報については、公式サイトやSNSで随時発表される予定です。ファンは今後の情報公開に注目する必要があります。",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4ZVFkSEpDT012YTcwdmkwLWlUUGtBM25mNU9GdWRWeE5TU2U4S0c4cl9PMl9adGEzZE1kd000enQ5WEhxZE9jdXYtQjlRN04xbnh5T2JyR1NSaDU5Z2RGeTM4X21WbVIzM2tmVnVBQmhLTFRTaWszX2Zn?oc=5",
-        "source": "Google News"
+        "venue": "東京ディズニーリゾート",
+        "headline": "Mrs. GREEN APPLE 東京ディズニーリゾート夏イベントコラボ決定",
+        "summary": "Mrs. GREEN APPLEが、東京ディズニーリゾートで開催される夏のスペシャルイベント「サマー・クールオフ」とのコラボレーションを今年も行うことが決定しました。具体的なコラボ内容や実施期間などの詳細は、今後発表される予定です。",
+        "detail": "Mrs. GREEN APPLEが、東京ディズニーリゾートで開催される夏のスペシャルイベント「サマー・クールオフ at Tokyo Disney Resort®」とのコラボレーションを今年も行うことが発表されました。このコラボは昨年に続いて2回目の実施となります。現時点では、コラボの具体的な内容（例：特別楽曲の提供、パーク内での映像や音楽の使用、関連グッズの発売など）や、コラボが行われる正確な期間は明らかになっていません。詳細な情報は、東京ディズニーリゾートおよびMrs. GREEN APPLEの公式チャンネルを通じて、順次発表されていく見込みです。夏のディズニーリゾートを彩る音楽コラボとして注目されます。",
+        "url": "https://mrsgreenapple.com/news/detail/22497",
+        "source": "Mrs. GREEN APPLE 公式"
+      }
+    ],
+    "timelesz": [
+      {
+        "rank": 3,
+        "group_id": "timelesz",
+        "category": "comeback",
+        "dates": "4/29(水)",
+        "venue": "",
+        "headline": "timelesz ニューアルバム『MOMENTUM』4/29発売",
+        "summary": "timeleszのニューアルバム『MOMENTUM』が4月29日(水)に発売されます。全曲の試聴が既に開始されており、ストリーミング映像のダイジェストも公開されています。新曲「あくび」のミュージックビデオのティーザー映像も公開中です。",
+        "detail": "timeleszのニューアルバム『MOMENTUM』が、2026年4月29日(水)にリリースされます。本作の発売に先立ち、公式YouTubeチャンネルでは収録曲「あくび」のミュージックビデオのティーザー映像が公開されています。また、アルバムのストリーミング映像のダイジェスト版も公開され、作品の世界観を垣間見ることができます。さらに、アルバムの全曲試聴が既に開始されており、ファンは発売前に全曲をチェックできる状態です。これにより、アルバムの発売に向けて期待が高まっています。今後のさらなるプロモーション展開にも注目が集まります。",
+        "url": "https://ovtp.jp/9116749",
+        "source": "timelesz 公式"
       }
     ]
   }
