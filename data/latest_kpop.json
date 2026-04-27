@@ -1,41 +1,17 @@
 {
-  "generated_at": "2026-04-25T11:55:13.963939+09:00",
+  "generated_at": "2026-04-27T12:37:07.822844+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
       "category": "ticket",
-      "dates": "4/16",
-      "venue": "東京ドーム",
-      "headline": "IVE東京ドーム公演 DIVE JAPAN先行 4/16受付",
-      "summary": "IVEのワールドツアー東京ドーム公演のDIVE JAPANチケット先行受付（抽選）が4月16日から開始。日程や詳細は公式サイトを確認。",
-      "detail": "「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」東京ドーム公演のDIVE JAPANチケット先行受付（抽選）の案内が4月16日に発表されました。受付期間や公演日程の詳細は公式サイトをご確認ください。ファンクラブ会員はこの機会に申し込みを検討しましょう。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5242&cd=OF10364",
-      "source": "IVE公式"
-    },
-    {
-      "rank": 2,
-      "group_id": "ive",
-      "category": "comeback",
-      "dates": "4/17",
-      "venue": "",
-      "headline": "IVE JAPAN 4th EP収録曲がテレ東ドラマ主題歌に 4/17",
-      "summary": "IVEのJAPAN 4th EP『LUCID DREAM』収録曲「JIGSAW」がテレ東系ドラマの主題歌に決定。期間生産限定盤の情報も公開。",
-      "detail": "IVEのJAPAN 4th EP『LUCID DREAM』収録曲「JIGSAW」が、テレ東系ドラマ24「ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-」の主題歌に決定しました。また、同EPの期間生産限定盤のジャケットなど詳細も発表されています。リリース日や購入方法は今後の公式情報をチェックしてください。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5242&cd=OF10365",
-      "source": "IVE公式"
-    },
-    {
-      "rank": 3,
-      "group_id": "twice",
-      "category": "event",
-      "dates": "日程未定",
-      "venue": "",
-      "headline": "MISAMO JAPAN 1st ALBUM『PLAY』リリースイベント 日程未定",
-      "summary": "TWICEのユニットMISAMOの日本1stアルバム『PLAY』購入者対象リリースイベント会場でのCD販売に関するお知らせが4月24日に公開。",
-      "detail": "MISAMOのJAPAN 1st ALBUM『PLAY』購入者対象リリースイベントについて、会場でのCD販売に関するお知らせが4月24日にTWICE公式サイトで発表されました。イベント日程や詳細は現時点で未定ですが、アルバム購入を検討しているファンは公式情報を確認してください。",
-      "url": "https://www.twicejapan.com/news/detail/1989",
-      "source": "TWICE公式"
+      "dates": "4/18(金)",
+      "venue": "京セラドーム大阪",
+      "headline": "IVE大阪公演注意事項 4/18 京セラドーム",
+      "summary": "IVEのワールドツアー大阪公演（4/18）に関する注意事項が発表。チケット購入者向けの案内で、未購入のファンは今後の追加情報に注目。",
+      "detail": "IVE公式サイトが2026年4月18日に京セラドーム大阪で開催される「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」の公演注意事項を公開。チケット購入者は来場前に必ず確認が必要。注意事項には持ち込み制限や開場時間などが含まれる。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3441&cd=OF10366",
+      "source": "IVE Japan Official"
     }
   ],
   "groups": {
@@ -44,39 +20,13 @@
         "rank": 1,
         "group_id": "ive",
         "category": "ticket",
-        "dates": "4/16",
-        "venue": "東京ドーム",
-        "headline": "IVE東京ドーム公演 DIVE JAPAN先行 4/16受付",
-        "summary": "IVEのワールドツアー東京ドーム公演のDIVE JAPANチケット先行受付（抽選）が4月16日から開始。日程や詳細は公式サイトを確認。",
-        "detail": "「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」東京ドーム公演のDIVE JAPANチケット先行受付（抽選）の案内が4月16日に発表されました。受付期間や公演日程の詳細は公式サイトをご確認ください。ファンクラブ会員はこの機会に申し込みを検討しましょう。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5242&cd=OF10364",
-        "source": "IVE公式"
-      },
-      {
-        "rank": 2,
-        "group_id": "ive",
-        "category": "comeback",
-        "dates": "4/17",
-        "venue": "",
-        "headline": "IVE JAPAN 4th EP収録曲がテレ東ドラマ主題歌に 4/17",
-        "summary": "IVEのJAPAN 4th EP『LUCID DREAM』収録曲「JIGSAW」がテレ東系ドラマの主題歌に決定。期間生産限定盤の情報も公開。",
-        "detail": "IVEのJAPAN 4th EP『LUCID DREAM』収録曲「JIGSAW」が、テレ東系ドラマ24「ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-」の主題歌に決定しました。また、同EPの期間生産限定盤のジャケットなど詳細も発表されています。リリース日や購入方法は今後の公式情報をチェックしてください。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5242&cd=OF10365",
-        "source": "IVE公式"
-      }
-    ],
-    "twice": [
-      {
-        "rank": 3,
-        "group_id": "twice",
-        "category": "event",
-        "dates": "日程未定",
-        "venue": "",
-        "headline": "MISAMO JAPAN 1st ALBUM『PLAY』リリースイベント 日程未定",
-        "summary": "TWICEのユニットMISAMOの日本1stアルバム『PLAY』購入者対象リリースイベント会場でのCD販売に関するお知らせが4月24日に公開。",
-        "detail": "MISAMOのJAPAN 1st ALBUM『PLAY』購入者対象リリースイベントについて、会場でのCD販売に関するお知らせが4月24日にTWICE公式サイトで発表されました。イベント日程や詳細は現時点で未定ですが、アルバム購入を検討しているファンは公式情報を確認してください。",
-        "url": "https://www.twicejapan.com/news/detail/1989",
-        "source": "TWICE公式"
+        "dates": "4/18(金)",
+        "venue": "京セラドーム大阪",
+        "headline": "IVE大阪公演注意事項 4/18 京セラドーム",
+        "summary": "IVEのワールドツアー大阪公演（4/18）に関する注意事項が発表。チケット購入者向けの案内で、未購入のファンは今後の追加情報に注目。",
+        "detail": "IVE公式サイトが2026年4月18日に京セラドーム大阪で開催される「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」の公演注意事項を公開。チケット購入者は来場前に必ず確認が必要。注意事項には持ち込み制限や開場時間などが含まれる。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3441&cd=OF10366",
+        "source": "IVE Japan Official"
       }
     ]
   }
