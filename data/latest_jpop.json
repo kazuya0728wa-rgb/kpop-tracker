@@ -1,53 +1,17 @@
 {
-  "generated_at": "2026-04-25T11:58:08.132721+09:00",
+  "generated_at": "2026-04-27T12:39:51.684605+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "mrs_green_apple",
       "category": "ticket",
-      "dates": "5月公演 受付中",
-      "venue": "",
-      "headline": "Mrs. GREEN APPLE 5月公演ファンクラブ先行4/23受付中",
-      "summary": "Mrs. GREEN APPLEの5月公演『ゼンジン未到とイ/ミュータブル〜間奏編〜』のファンクラブ直前追加先行抽選受付が4月23日より開始。Ringo Jam会員対象で、期間は4月23日から。",
-      "detail": "Mrs. GREEN APPLEが2026年5月に開催する公演『ゼンジン未到とイ/ミュータブル〜間奏編〜』のオフィシャルファンクラブ「Ringo Jam」直前追加先行抽選受付を4月23日より開始。対象はファンクラブ会員で、抽選申込期間や詳細は公式サイトにてご確認ください。チケットをまだ入手していないファンにとって、この機会にぜひ申し込みを検討してください。",
-      "url": "https://mrsgreenapple.com/news/detail/22496",
+      "dates": "5月開催",
+      "venue": "長居公演（会場未記載）",
+      "headline": "ゼンジン未到とイ/ミュータブル 間奏編 5月長居公演 会場販売情報公開",
+      "summary": "Mrs. GREEN APPLEのライブ「ゼンジン未到とイ/ミュータブル〜間奏編〜」5月長居公演の会場販売情報が公開されました。詳細な日程や受付期間は公式サイトをご確認ください。",
+      "detail": "Mrs. GREEN APPLEが2026年5月に長居公演を開催する「ゼンジン未到とイ/ミュータブル〜間奏編〜」の会場販売情報が4月27日に公開されました。本情報はまだチケットを入手していないファン向けに、会場での追加販売や当日券の可能性を含む案内です。具体的な販売日時や受付方法は公式ニュースにて記載されているため、詳細はリンク先をご参照ください。チケット入手のチャンスとなる可能性があります。",
+      "url": "https://mrsgreenapple.com/news/detail/22508",
       "source": "Mrs. GREEN APPLE 公式"
-    },
-    {
-      "rank": 2,
-      "group_id": "mrs_green_apple",
-      "category": "event",
-      "dates": "4月24日公開",
-      "venue": "",
-      "headline": "Mrs. GREEN APPLE『風と町』ビハインド映像4/24公開",
-      "summary": "4月24日、Mrs. GREEN APPLEの楽曲『風と町』のビハインド・ザ・ソング＆シーン映像が公開された。楽曲制作やミュージックビデオの舞台裏を楽しめる。",
-      "detail": "Mrs. GREEN APPLEは4月24日、楽曲『風と町』の「Behind the Song & the Scenes」映像を公開。この映像では、楽曲の制作過程やミュージックビデオの撮影現場の様子など、ファン必見の舞台裏を視聴できる。今後の新たなリリースやライブに期待が高まるコンテンツとなっている。",
-      "url": "https://mrsgreenapple.com/news/detail/22506",
-      "source": "Mrs. GREEN APPLE 公式"
-    },
-    {
-      "rank": 3,
-      "group_id": "timelesz",
-      "category": "comeback",
-      "dates": "4月29日発売",
-      "venue": "",
-      "headline": "timelesz「MOMENTUM」リリース記念コラボ4/29開始",
-      "summary": "timeleszが4月29日に発売する『MOMENTUM』を記念し、タワーレコード・HMV・SHIBUYA TSUTAYAで店頭コラボキャンペーン開催が決定。詳細は公式サイトへ。",
-      "detail": "timeleszは、4月29日(水)に発売する作品『MOMENTUM』のリリースを記念して、タワーレコード、HMV、SHIBUYA TSUTAYAとの店頭コラボキャンペーンを開催。キャンペーン内容や参加方法の詳細は、公式サイト(OVTP)をご確認ください。CD購入を検討しているファンにとって注目の企画となっています。",
-      "url": "https://ovtp.jp/9116965",
-      "source": "timelesz 公式"
-    },
-    {
-      "rank": 4,
-      "group_id": "timelesz",
-      "category": "comeback",
-      "dates": "4月23日公開",
-      "venue": "",
-      "headline": "timelesz「あくび」MVを4/23公開",
-      "summary": "4月23日、timeleszの新曲「あくび」のミュージックビデオが公開された。YouTubeで視聴可能。",
-      "detail": "timeleszは4月23日、新曲「あくび」のミュージックビデオをYouTubeにて公開。楽曲の魅力を映像で楽しめる内容となっており、リリース前の作品『MOMENTUM』への期待がさらに高まる。ファンはぜひ視聴して、新たなtimeleszの世界観に触れてみよう。",
-      "url": "https://youtu.be/w3LT7ZQ-DK4",
-      "source": "timelesz 公式"
     }
   ],
   "groups": {
@@ -56,51 +20,13 @@
         "rank": 1,
         "group_id": "mrs_green_apple",
         "category": "ticket",
-        "dates": "5月公演 受付中",
-        "venue": "",
-        "headline": "Mrs. GREEN APPLE 5月公演ファンクラブ先行4/23受付中",
-        "summary": "Mrs. GREEN APPLEの5月公演『ゼンジン未到とイ/ミュータブル〜間奏編〜』のファンクラブ直前追加先行抽選受付が4月23日より開始。Ringo Jam会員対象で、期間は4月23日から。",
-        "detail": "Mrs. GREEN APPLEが2026年5月に開催する公演『ゼンジン未到とイ/ミュータブル〜間奏編〜』のオフィシャルファンクラブ「Ringo Jam」直前追加先行抽選受付を4月23日より開始。対象はファンクラブ会員で、抽選申込期間や詳細は公式サイトにてご確認ください。チケットをまだ入手していないファンにとって、この機会にぜひ申し込みを検討してください。",
-        "url": "https://mrsgreenapple.com/news/detail/22496",
+        "dates": "5月開催",
+        "venue": "長居公演（会場未記載）",
+        "headline": "ゼンジン未到とイ/ミュータブル 間奏編 5月長居公演 会場販売情報公開",
+        "summary": "Mrs. GREEN APPLEのライブ「ゼンジン未到とイ/ミュータブル〜間奏編〜」5月長居公演の会場販売情報が公開されました。詳細な日程や受付期間は公式サイトをご確認ください。",
+        "detail": "Mrs. GREEN APPLEが2026年5月に長居公演を開催する「ゼンジン未到とイ/ミュータブル〜間奏編〜」の会場販売情報が4月27日に公開されました。本情報はまだチケットを入手していないファン向けに、会場での追加販売や当日券の可能性を含む案内です。具体的な販売日時や受付方法は公式ニュースにて記載されているため、詳細はリンク先をご参照ください。チケット入手のチャンスとなる可能性があります。",
+        "url": "https://mrsgreenapple.com/news/detail/22508",
         "source": "Mrs. GREEN APPLE 公式"
-      },
-      {
-        "rank": 2,
-        "group_id": "mrs_green_apple",
-        "category": "event",
-        "dates": "4月24日公開",
-        "venue": "",
-        "headline": "Mrs. GREEN APPLE『風と町』ビハインド映像4/24公開",
-        "summary": "4月24日、Mrs. GREEN APPLEの楽曲『風と町』のビハインド・ザ・ソング＆シーン映像が公開された。楽曲制作やミュージックビデオの舞台裏を楽しめる。",
-        "detail": "Mrs. GREEN APPLEは4月24日、楽曲『風と町』の「Behind the Song & the Scenes」映像を公開。この映像では、楽曲の制作過程やミュージックビデオの撮影現場の様子など、ファン必見の舞台裏を視聴できる。今後の新たなリリースやライブに期待が高まるコンテンツとなっている。",
-        "url": "https://mrsgreenapple.com/news/detail/22506",
-        "source": "Mrs. GREEN APPLE 公式"
-      }
-    ],
-    "timelesz": [
-      {
-        "rank": 3,
-        "group_id": "timelesz",
-        "category": "comeback",
-        "dates": "4月29日発売",
-        "venue": "",
-        "headline": "timelesz「MOMENTUM」リリース記念コラボ4/29開始",
-        "summary": "timeleszが4月29日に発売する『MOMENTUM』を記念し、タワーレコード・HMV・SHIBUYA TSUTAYAで店頭コラボキャンペーン開催が決定。詳細は公式サイトへ。",
-        "detail": "timeleszは、4月29日(水)に発売する作品『MOMENTUM』のリリースを記念して、タワーレコード、HMV、SHIBUYA TSUTAYAとの店頭コラボキャンペーンを開催。キャンペーン内容や参加方法の詳細は、公式サイト(OVTP)をご確認ください。CD購入を検討しているファンにとって注目の企画となっています。",
-        "url": "https://ovtp.jp/9116965",
-        "source": "timelesz 公式"
-      },
-      {
-        "rank": 4,
-        "group_id": "timelesz",
-        "category": "comeback",
-        "dates": "4月23日公開",
-        "venue": "",
-        "headline": "timelesz「あくび」MVを4/23公開",
-        "summary": "4月23日、timeleszの新曲「あくび」のミュージックビデオが公開された。YouTubeで視聴可能。",
-        "detail": "timeleszは4月23日、新曲「あくび」のミュージックビデオをYouTubeにて公開。楽曲の魅力を映像で楽しめる内容となっており、リリース前の作品『MOMENTUM』への期待がさらに高まる。ファンはぜひ視聴して、新たなtimeleszの世界観に触れてみよう。",
-        "url": "https://youtu.be/w3LT7ZQ-DK4",
-        "source": "timelesz 公式"
       }
     ]
   }
