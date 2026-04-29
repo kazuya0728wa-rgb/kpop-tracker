@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-27T12:37:07.822844+09:00",
+  "generated_at": "2026-04-29T12:39:58.578903+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
-      "category": "ticket",
-      "dates": "4/18(金)",
-      "venue": "京セラドーム大阪",
-      "headline": "IVE大阪公演注意事項 4/18 京セラドーム",
-      "summary": "IVEのワールドツアー大阪公演（4/18）に関する注意事項が発表。チケット購入者向けの案内で、未購入のファンは今後の追加情報に注目。",
-      "detail": "IVE公式サイトが2026年4月18日に京セラドーム大阪で開催される「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」の公演注意事項を公開。チケット購入者は来場前に必ず確認が必要。注意事項には持ち込み制限や開場時間などが含まれる。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3441&cd=OF10366",
-      "source": "IVE Japan Official"
+      "category": "comeback",
+      "dates": "6月2日",
+      "venue": "",
+      "headline": "IVE日本4th EP『LUCID DREAM』6/2発売決定",
+      "summary": "IVEの日本4th EP『LUCID DREAM』が6月2日にリリースされます。全形態のパッケージショットが4月27日に公開されました。詳細は公式サイトをご確認ください。",
+      "detail": "IVEの日本4th EP『LUCID DREAM』が6月2日(火)に発売されます。2026年4月27日に全形態のパッケージショットが公式サイトで公開されました。通常盤、初回限定盤など複数の形態でのリリースが予定されており、詳細な収録内容や特典情報は今後の発表を待ちましょう。リリースを記念したイベントの有無も要注目です。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3728&cd=OF10372",
+      "source": "IVE日本公式サイト"
     }
   ],
   "groups": {
@@ -19,14 +19,14 @@
       {
         "rank": 1,
         "group_id": "ive",
-        "category": "ticket",
-        "dates": "4/18(金)",
-        "venue": "京セラドーム大阪",
-        "headline": "IVE大阪公演注意事項 4/18 京セラドーム",
-        "summary": "IVEのワールドツアー大阪公演（4/18）に関する注意事項が発表。チケット購入者向けの案内で、未購入のファンは今後の追加情報に注目。",
-        "detail": "IVE公式サイトが2026年4月18日に京セラドーム大阪で開催される「IVE WORLD TOUR 'SHOW WHAT I AM' IN JAPAN」の公演注意事項を公開。チケット購入者は来場前に必ず確認が必要。注意事項には持ち込み制限や開場時間などが含まれる。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3441&cd=OF10366",
-        "source": "IVE Japan Official"
+        "category": "comeback",
+        "dates": "6月2日",
+        "venue": "",
+        "headline": "IVE日本4th EP『LUCID DREAM』6/2発売決定",
+        "summary": "IVEの日本4th EP『LUCID DREAM』が6月2日にリリースされます。全形態のパッケージショットが4月27日に公開されました。詳細は公式サイトをご確認ください。",
+        "detail": "IVEの日本4th EP『LUCID DREAM』が6月2日(火)に発売されます。2026年4月27日に全形態のパッケージショットが公式サイトで公開されました。通常盤、初回限定盤など複数の形態でのリリースが予定されており、詳細な収録内容や特典情報は今後の発表を待ちましょう。リリースを記念したイベントの有無も要注目です。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3728&cd=OF10372",
+        "source": "IVE日本公式サイト"
       }
     ]
   }
