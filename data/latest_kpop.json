@@ -1,53 +1,17 @@
 {
-  "generated_at": "2026-05-01T12:54:09.888544+09:00",
+  "generated_at": "2026-05-03T12:44:50.759574+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
-      "category": "ticket",
-      "dates": "4/29",
-      "venue": "東京ドーム",
-      "headline": "IVE東京ドーム公演 2次先行受付 4/29～",
-      "summary": "IVEのワールドツアー東京ドーム公演のDIVE JAPANチケット2次先行抽選受付が4月29日から開始されます。詳細は公式サイトをご確認ください。",
-      "detail": "IVEは現在「IVE WORLD TOUR ‘SHOW WHAT I AM’ IN JAPAN」を開催中で、その東京ドーム公演のDIVE JAPAN会員向け2次先行抽選受付が4月29日よりスタートしました。受付期間や当落発表日など詳細は公式サイトで案内されています。会員限定の先行受付のため、この機会にチケットを確保しましょう。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10369",
-      "source": "IVE JAPAN OFFICIAL"
-    },
-    {
-      "rank": 2,
-      "group_id": "ive",
       "category": "comeback",
-      "dates": "日程未定",
+      "dates": "5/1 情報公開",
       "venue": "",
-      "headline": "IVE日本4th EP『LUCID DREAM』特設サイトOPEN 日程未定",
-      "summary": "IVEの日本4th EP『LUCID DREAM』の特設サイトが4月23日にオープンしました。リリース日など詳細は今後発表予定です。",
-      "detail": "IVEが日本4th EP『LUCID DREAM』の特設サイトを4月23日に公開しました。作品の詳細やリリース日などの情報は今後随時更新される予定です。日本のファンにとって待望の新作リリースとなるため、特設サイトをチェックしておきましょう。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10370",
-      "source": "IVE JAPAN OFFICIAL"
-    },
-    {
-      "rank": 3,
-      "group_id": "ive",
-      "category": "event",
-      "dates": "4/29",
-      "venue": "実施会場",
-      "headline": "IVE 2ndアルバム抽選イベント 4/29 CD購入特典",
-      "summary": "IVEの2ndアルバムシリアルナンバー応募抽選イベントで、4月29日に会場CD購入特典が決定しました。対象店舗詳細は公式サイトをご確認ください。",
-      "detail": "IVEの2ndアルバムに封入のシリアルナンバーを使った抽選イベントが実施され、4月29日に特定会場でCDを購入すると追加の特典が付与されることが決定しました。詳細な会場や特典内容は公式サイトで案内されています。ファンはお見逃しなく。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10368",
-      "source": "IVE JAPAN OFFICIAL"
-    },
-    {
-      "rank": 4,
-      "group_id": "twice",
-      "category": "event",
-      "dates": "日程未定",
-      "venue": "",
-      "headline": "MISAMO日本1stアルバム『PLAY』リリイベFCブースキャンペーン 日程未定",
-      "summary": "MISAMOの日本1stアルバム『PLAY』リリースイベント会場で、ファンクラブ新規入会・継続キャンペーンが5月1日発表されました。詳細は対象会場・日程をご確認ください。",
-      "detail": "TWICEのユニットMISAMOが5月1日に日本1stアルバム『PLAY』をリリースし、これを記念したリリースイベントの会場に設置されるファンクラブブースで、新規入会および継続会員向けのキャンペーンが実施されます。特典内容など詳しい情報は公式サイトで案内されています。",
-      "url": "https://www.twicejapan.com/news/detail/1994",
-      "source": "TWICE JAPAN OFFICIAL"
+      "headline": "IVE日本4th EP『LUCID DREAM』店舗特典公開 5/1",
+      "summary": "IVEが2026年5月1日に日本4th EP『LUCID DREAM』の店舗別購入特典絵柄を公開。リリース日は未定だが、新作リリースに向けた情報が始動。",
+      "detail": "IVEの日本4th EP『LUCID DREAM』に関して、2026年5月1日に店舗別購入特典の絵柄が公式サイトで公開されました。EPの正式な発売日は現時点では未発表ですが、特典情報の解禁によりリリースが近いことが示唆されています。特典は各CDショップごとに異なる絵柄が用意されており、購入を検討するファンは早めにチェックが必要です。今後の追加情報に注目しましょう。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4223&cd=OF10374",
+      "source": "IVE日本公式サイト"
     }
   ],
   "groups": {
@@ -55,52 +19,14 @@
       {
         "rank": 1,
         "group_id": "ive",
-        "category": "ticket",
-        "dates": "4/29",
-        "venue": "東京ドーム",
-        "headline": "IVE東京ドーム公演 2次先行受付 4/29～",
-        "summary": "IVEのワールドツアー東京ドーム公演のDIVE JAPANチケット2次先行抽選受付が4月29日から開始されます。詳細は公式サイトをご確認ください。",
-        "detail": "IVEは現在「IVE WORLD TOUR ‘SHOW WHAT I AM’ IN JAPAN」を開催中で、その東京ドーム公演のDIVE JAPAN会員向け2次先行抽選受付が4月29日よりスタートしました。受付期間や当落発表日など詳細は公式サイトで案内されています。会員限定の先行受付のため、この機会にチケットを確保しましょう。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10369",
-        "source": "IVE JAPAN OFFICIAL"
-      },
-      {
-        "rank": 2,
-        "group_id": "ive",
         "category": "comeback",
-        "dates": "日程未定",
+        "dates": "5/1 情報公開",
         "venue": "",
-        "headline": "IVE日本4th EP『LUCID DREAM』特設サイトOPEN 日程未定",
-        "summary": "IVEの日本4th EP『LUCID DREAM』の特設サイトが4月23日にオープンしました。リリース日など詳細は今後発表予定です。",
-        "detail": "IVEが日本4th EP『LUCID DREAM』の特設サイトを4月23日に公開しました。作品の詳細やリリース日などの情報は今後随時更新される予定です。日本のファンにとって待望の新作リリースとなるため、特設サイトをチェックしておきましょう。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10370",
-        "source": "IVE JAPAN OFFICIAL"
-      },
-      {
-        "rank": 3,
-        "group_id": "ive",
-        "category": "event",
-        "dates": "4/29",
-        "venue": "実施会場",
-        "headline": "IVE 2ndアルバム抽選イベント 4/29 CD購入特典",
-        "summary": "IVEの2ndアルバムシリアルナンバー応募抽選イベントで、4月29日に会場CD購入特典が決定しました。対象店舗詳細は公式サイトをご確認ください。",
-        "detail": "IVEの2ndアルバムに封入のシリアルナンバーを使った抽選イベントが実施され、4月29日に特定会場でCDを購入すると追加の特典が付与されることが決定しました。詳細な会場や特典内容は公式サイトで案内されています。ファンはお見逃しなく。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5131&cd=OF10368",
-        "source": "IVE JAPAN OFFICIAL"
-      }
-    ],
-    "twice": [
-      {
-        "rank": 4,
-        "group_id": "twice",
-        "category": "event",
-        "dates": "日程未定",
-        "venue": "",
-        "headline": "MISAMO日本1stアルバム『PLAY』リリイベFCブースキャンペーン 日程未定",
-        "summary": "MISAMOの日本1stアルバム『PLAY』リリースイベント会場で、ファンクラブ新規入会・継続キャンペーンが5月1日発表されました。詳細は対象会場・日程をご確認ください。",
-        "detail": "TWICEのユニットMISAMOが5月1日に日本1stアルバム『PLAY』をリリースし、これを記念したリリースイベントの会場に設置されるファンクラブブースで、新規入会および継続会員向けのキャンペーンが実施されます。特典内容など詳しい情報は公式サイトで案内されています。",
-        "url": "https://www.twicejapan.com/news/detail/1994",
-        "source": "TWICE JAPAN OFFICIAL"
+        "headline": "IVE日本4th EP『LUCID DREAM』店舗特典公開 5/1",
+        "summary": "IVEが2026年5月1日に日本4th EP『LUCID DREAM』の店舗別購入特典絵柄を公開。リリース日は未定だが、新作リリースに向けた情報が始動。",
+        "detail": "IVEの日本4th EP『LUCID DREAM』に関して、2026年5月1日に店舗別購入特典の絵柄が公式サイトで公開されました。EPの正式な発売日は現時点では未発表ですが、特典情報の解禁によりリリースが近いことが示唆されています。特典は各CDショップごとに異なる絵柄が用意されており、購入を検討するファンは早めにチェックが必要です。今後の追加情報に注目しましょう。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=4223&cd=OF10374",
+        "source": "IVE日本公式サイト"
       }
     ]
   }
