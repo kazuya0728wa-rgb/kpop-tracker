@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-03T12:47:25.098432+09:00",
+  "generated_at": "2026-05-05T12:32:37.484608+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "mrs_green_apple",
       "category": "event",
-      "dates": "5月大阪公演",
-      "venue": "大阪公演（会場名未記載）",
-      "headline": "ゼンジン未到とイ/ミュータブル 5月大阪公演 直前販売決定",
-      "summary": "Mrs. GREEN APPLEの「ゼンジン未到とイ/ミュータブル〜間奏編〜」5月大阪公演の直前販売が決定しました。日程や会場の詳細は公式サイトをご確認ください。",
-      "detail": "Mrs. GREEN APPLEが「ゼンジン未到とイ/ミュータブル〜間奏編〜」の5月大阪公演について、直前販売の実施を発表しました。本公演はスタジアムツアーの一環で、直前販売の受付期間や購入方法などの詳細は公式ニュースにて案内されています。チケットをまだ入手していないファンは、この機会に入手を検討してください。",
-      "url": "https://mrsgreenapple.com/news/detail/22533",
-      "source": "Mrs. GREEN APPLE 公式"
+      "dates": "未定",
+      "venue": "",
+      "headline": "JAM’S Draw更新 日程未定",
+      "summary": "Mrs. GREEN APPLE公式ニュース「JAM’S Draw」が5月5日に更新されました。現時点で詳細な日程や会場等は明記されていません。",
+      "detail": "5月5日、Mrs. GREEN APPLE公式サイトにて「5.5JAM’S NEWS【JAM’S Draw】」が更新されました。コンテンツの具体的な内容や関連するイベントの日程・会場等は本アナウンス内では明らかにされていません。今後の追加情報に注目が必要です。",
+      "url": "https://mrsgreenapple.com/news/detail/22539",
+      "source": "Mrs. GREEN APPLE公式"
     }
   ],
   "groups": {
@@ -20,13 +20,13 @@
         "rank": 1,
         "group_id": "mrs_green_apple",
         "category": "event",
-        "dates": "5月大阪公演",
-        "venue": "大阪公演（会場名未記載）",
-        "headline": "ゼンジン未到とイ/ミュータブル 5月大阪公演 直前販売決定",
-        "summary": "Mrs. GREEN APPLEの「ゼンジン未到とイ/ミュータブル〜間奏編〜」5月大阪公演の直前販売が決定しました。日程や会場の詳細は公式サイトをご確認ください。",
-        "detail": "Mrs. GREEN APPLEが「ゼンジン未到とイ/ミュータブル〜間奏編〜」の5月大阪公演について、直前販売の実施を発表しました。本公演はスタジアムツアーの一環で、直前販売の受付期間や購入方法などの詳細は公式ニュースにて案内されています。チケットをまだ入手していないファンは、この機会に入手を検討してください。",
-        "url": "https://mrsgreenapple.com/news/detail/22533",
-        "source": "Mrs. GREEN APPLE 公式"
+        "dates": "未定",
+        "venue": "",
+        "headline": "JAM’S Draw更新 日程未定",
+        "summary": "Mrs. GREEN APPLE公式ニュース「JAM’S Draw」が5月5日に更新されました。現時点で詳細な日程や会場等は明記されていません。",
+        "detail": "5月5日、Mrs. GREEN APPLE公式サイトにて「5.5JAM’S NEWS【JAM’S Draw】」が更新されました。コンテンツの具体的な内容や関連するイベントの日程・会場等は本アナウンス内では明らかにされていません。今後の追加情報に注目が必要です。",
+        "url": "https://mrsgreenapple.com/news/detail/22539",
+        "source": "Mrs. GREEN APPLE公式"
       }
     ]
   }
