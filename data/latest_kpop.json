@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-05T12:29:52.649734+09:00",
+  "generated_at": "2026-05-07T12:40:19.263294+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "ive",
-      "category": "comeback",
-      "dates": "2026年4月27日",
-      "venue": "",
-      "headline": "IVE日本4th EP『LUCID DREAM』2026年4月27日全形態公開",
-      "summary": "IVEが日本4th EP『LUCID DREAM』を2026年4月27日にリリース。全形態のパッケージショットが公開され、予約受付中。",
-      "detail": "IVEの日本4th EP『LUCID DREAM』が2026年4月27日に発売されます。公式サイトでは全形態のパッケージショットが公開され、各形態の詳細や予約方法が案内されています。ファンは早めの予約が推奨されます。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=2725&cd=OF10372",
-      "source": "IVE公式サイト"
+      "category": "ticket",
+      "dates": "5/2 受付開始",
+      "venue": "東京ドーム",
+      "headline": "IVE東京ドーム公演プレイガイド先行受付 5/2開始",
+      "summary": "IVEワールドツアー『SHOW WHAT I AM』日本公演の東京ドーム公演プレイガイド先行受付が5月2日より実施決定。詳細は公式サイトで確認。",
+      "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演として、東京ドームでの追加公演が決定。プレイガイド先行受付が2026年5月2日より開始されます。受付方法や期間などの詳細はIVE日本公式サイトにてご確認ください。一般発売の前に、この先行受付でチケットを確保するチャンスです。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3753&cd=OF10375",
+      "source": "IVE日本公式サイト"
     }
   ],
   "groups": {
@@ -19,14 +19,14 @@
       {
         "rank": 1,
         "group_id": "ive",
-        "category": "comeback",
-        "dates": "2026年4月27日",
-        "venue": "",
-        "headline": "IVE日本4th EP『LUCID DREAM』2026年4月27日全形態公開",
-        "summary": "IVEが日本4th EP『LUCID DREAM』を2026年4月27日にリリース。全形態のパッケージショットが公開され、予約受付中。",
-        "detail": "IVEの日本4th EP『LUCID DREAM』が2026年4月27日に発売されます。公式サイトでは全形態のパッケージショットが公開され、各形態の詳細や予約方法が案内されています。ファンは早めの予約が推奨されます。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=2725&cd=OF10372",
-        "source": "IVE公式サイト"
+        "category": "ticket",
+        "dates": "5/2 受付開始",
+        "venue": "東京ドーム",
+        "headline": "IVE東京ドーム公演プレイガイド先行受付 5/2開始",
+        "summary": "IVEワールドツアー『SHOW WHAT I AM』日本公演の東京ドーム公演プレイガイド先行受付が5月2日より実施決定。詳細は公式サイトで確認。",
+        "detail": "IVEのワールドツアー『SHOW WHAT I AM』の日本公演として、東京ドームでの追加公演が決定。プレイガイド先行受付が2026年5月2日より開始されます。受付方法や期間などの詳細はIVE日本公式サイトにてご確認ください。一般発売の前に、この先行受付でチケットを確保するチャンスです。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3753&cd=OF10375",
+        "source": "IVE日本公式サイト"
       }
     ]
   }
