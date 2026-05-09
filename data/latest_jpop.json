@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-05T12:32:37.484608+09:00",
+  "generated_at": "2026-05-09T12:37:33.059346+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "mrs_green_apple",
       "category": "event",
-      "dates": "未定",
+      "dates": "5/8公開",
       "venue": "",
-      "headline": "JAM’S Draw更新 日程未定",
-      "summary": "Mrs. GREEN APPLE公式ニュース「JAM’S Draw」が5月5日に更新されました。現時点で詳細な日程や会場等は明記されていません。",
-      "detail": "5月5日、Mrs. GREEN APPLE公式サイトにて「5.5JAM’S NEWS【JAM’S Draw】」が更新されました。コンテンツの具体的な内容や関連するイベントの日程・会場等は本アナウンス内では明らかにされていません。今後の追加情報に注目が必要です。",
-      "url": "https://mrsgreenapple.com/news/detail/22539",
-      "source": "Mrs. GREEN APPLE公式"
+      "headline": "『風と町』MV Behind the Scenes 5/8公開",
+      "summary": "Mrs. GREEN APPLEの楽曲『風と町』のMVメイキング映像が5月8日に公開されました。ミュージックビデオの舞台裏を楽しめるコンテンツです。",
+      "detail": "Mrs. GREEN APPLEの楽曲『風と町』のミュージックビデオ（MV）Behind the Scenes（メイキング映像）が、2026年5月8日に公式サイトで公開されました。本編のMVでは見られない撮影の舞台裏やアーティストの様子を視聴できます。詳細は公式ニュースページにてご確認ください。",
+      "url": "https://mrsgreenapple.com/news/detail/22566",
+      "source": "Mrs. GREEN APPLE 公式"
     }
   ],
   "groups": {
@@ -20,13 +20,13 @@
         "rank": 1,
         "group_id": "mrs_green_apple",
         "category": "event",
-        "dates": "未定",
+        "dates": "5/8公開",
         "venue": "",
-        "headline": "JAM’S Draw更新 日程未定",
-        "summary": "Mrs. GREEN APPLE公式ニュース「JAM’S Draw」が5月5日に更新されました。現時点で詳細な日程や会場等は明記されていません。",
-        "detail": "5月5日、Mrs. GREEN APPLE公式サイトにて「5.5JAM’S NEWS【JAM’S Draw】」が更新されました。コンテンツの具体的な内容や関連するイベントの日程・会場等は本アナウンス内では明らかにされていません。今後の追加情報に注目が必要です。",
-        "url": "https://mrsgreenapple.com/news/detail/22539",
-        "source": "Mrs. GREEN APPLE公式"
+        "headline": "『風と町』MV Behind the Scenes 5/8公開",
+        "summary": "Mrs. GREEN APPLEの楽曲『風と町』のMVメイキング映像が5月8日に公開されました。ミュージックビデオの舞台裏を楽しめるコンテンツです。",
+        "detail": "Mrs. GREEN APPLEの楽曲『風と町』のミュージックビデオ（MV）Behind the Scenes（メイキング映像）が、2026年5月8日に公式サイトで公開されました。本編のMVでは見られない撮影の舞台裏やアーティストの様子を視聴できます。詳細は公式ニュースページにてご確認ください。",
+        "url": "https://mrsgreenapple.com/news/detail/22566",
+        "source": "Mrs. GREEN APPLE 公式"
       }
     ]
   }
