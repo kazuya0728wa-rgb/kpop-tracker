@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-05-09T12:37:33.059346+09:00",
+  "generated_at": "2026-05-11T13:03:39.387300+09:00",
   "items": [
     {
       "rank": 1,
       "group_id": "mrs_green_apple",
       "category": "event",
-      "dates": "5/8公開",
+      "dates": "日程未定",
       "venue": "",
-      "headline": "『風と町』MV Behind the Scenes 5/8公開",
-      "summary": "Mrs. GREEN APPLEの楽曲『風と町』のMVメイキング映像が5月8日に公開されました。ミュージックビデオの舞台裏を楽しめるコンテンツです。",
-      "detail": "Mrs. GREEN APPLEの楽曲『風と町』のミュージックビデオ（MV）Behind the Scenes（メイキング映像）が、2026年5月8日に公式サイトで公開されました。本編のMVでは見られない撮影の舞台裏やアーティストの様子を視聴できます。詳細は公式ニュースページにてご確認ください。",
-      "url": "https://mrsgreenapple.com/news/detail/22566",
+      "headline": "Ringo Jam発足10周年記念公開収録 日程未定",
+      "summary": "Mrs. GREEN APPLEのRingo Jam発足10周年を記念して、大公開収録「Welcome Back! Jam Land 大！公開収録 - Ringo Jam 10th SPECIAL -」の開催が決定しました。日程などの詳細は後日発表されます。",
+      "detail": "Mrs. GREEN APPLEの公式ファンコミュニティRingo Jamが発足10周年を迎え、記念イベント「Welcome Back! Jam Land 大！公開収録 - Ringo Jam 10th SPECIAL -」の開催が決定しました。本イベントは公開収録形式で行われ、詳細な日程や会場、参加方法については後日公式サイトで発表される予定です。ファンにとって記念すべき特別な機会となるため、今後の情報に注目しましょう。",
+      "url": "https://mrsgreenapple.com/news/detail/22567",
+      "source": "Mrs. GREEN APPLE 公式"
+    },
+    {
+      "rank": 2,
+      "group_id": "mrs_green_apple",
+      "category": "event",
+      "dates": "5/20(水)まで",
+      "venue": "",
+      "headline": "MUSIC AWARDS JAPAN 2026最終投票 5/20まで",
+      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の最終投票が5月20日(水)まで実施中です。Mrs. GREEN APPLEがノミネートされており、ファン投票で結果が左右されます。",
+      "detail": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の最終投票が、5月20日(水)まで行われています。Mrs. GREEN APPLEは複数の部門にノミネートされており、ファンからの投票が受賞の鍵を握ります。投票は公式サイトから手軽に参加でき、1日1回まで可能です。日本の音楽シーンを盛り上げる貴重な機会ですので、ぜひ積極的に投票しましょう。",
+      "url": "https://mrsgreenapple.com/news/detail/22568",
       "source": "Mrs. GREEN APPLE 公式"
     }
   ],
@@ -20,12 +32,24 @@
         "rank": 1,
         "group_id": "mrs_green_apple",
         "category": "event",
-        "dates": "5/8公開",
+        "dates": "日程未定",
         "venue": "",
-        "headline": "『風と町』MV Behind the Scenes 5/8公開",
-        "summary": "Mrs. GREEN APPLEの楽曲『風と町』のMVメイキング映像が5月8日に公開されました。ミュージックビデオの舞台裏を楽しめるコンテンツです。",
-        "detail": "Mrs. GREEN APPLEの楽曲『風と町』のミュージックビデオ（MV）Behind the Scenes（メイキング映像）が、2026年5月8日に公式サイトで公開されました。本編のMVでは見られない撮影の舞台裏やアーティストの様子を視聴できます。詳細は公式ニュースページにてご確認ください。",
-        "url": "https://mrsgreenapple.com/news/detail/22566",
+        "headline": "Ringo Jam発足10周年記念公開収録 日程未定",
+        "summary": "Mrs. GREEN APPLEのRingo Jam発足10周年を記念して、大公開収録「Welcome Back! Jam Land 大！公開収録 - Ringo Jam 10th SPECIAL -」の開催が決定しました。日程などの詳細は後日発表されます。",
+        "detail": "Mrs. GREEN APPLEの公式ファンコミュニティRingo Jamが発足10周年を迎え、記念イベント「Welcome Back! Jam Land 大！公開収録 - Ringo Jam 10th SPECIAL -」の開催が決定しました。本イベントは公開収録形式で行われ、詳細な日程や会場、参加方法については後日公式サイトで発表される予定です。ファンにとって記念すべき特別な機会となるため、今後の情報に注目しましょう。",
+        "url": "https://mrsgreenapple.com/news/detail/22567",
+        "source": "Mrs. GREEN APPLE 公式"
+      },
+      {
+        "rank": 2,
+        "group_id": "mrs_green_apple",
+        "category": "event",
+        "dates": "5/20(水)まで",
+        "venue": "",
+        "headline": "MUSIC AWARDS JAPAN 2026最終投票 5/20まで",
+        "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の最終投票が5月20日(水)まで実施中です。Mrs. GREEN APPLEがノミネートされており、ファン投票で結果が左右されます。",
+        "detail": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の最終投票が、5月20日(水)まで行われています。Mrs. GREEN APPLEは複数の部門にノミネートされており、ファンからの投票が受賞の鍵を握ります。投票は公式サイトから手軽に参加でき、1日1回まで可能です。日本の音楽シーンを盛り上げる貴重な機会ですので、ぜひ積極的に投票しましょう。",
+        "url": "https://mrsgreenapple.com/news/detail/22568",
         "source": "Mrs. GREEN APPLE 公式"
       }
     ]
