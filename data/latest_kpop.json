@@ -1,82 +1,56 @@
 {
-  "generated_at": "2026-05-09T12:34:51.411069+09:00",
+  "generated_at": "2026-05-11T13:00:51.166231+09:00",
   "items": [
-    {
-      "rank": 1,
-      "group_id": "ive",
-      "category": "comeback",
-      "dates": "2026/5/7",
-      "venue": "",
-      "headline": "IVE日本4th EP『LUCID DREAM』先行配信「Fashion」レコーディングビハインド公開 5/7",
-      "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」のレコーディングビハインド映像が2026年5月7日に公開されました。EPは今後リリース予定です。",
-      "detail": "IVEの日本4th EP『LUCID DREAM』から、先行配信曲「Fashion」のレコーディングビハインド映像が、2026年5月7日にIVE公式サイトで公開されました。この映像ではメンバーのレコーディング風景を垣間見ることができます。EP『LUCID DREAM』の詳細なリリース日は今後発表予定です。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3213&cd=OF10376",
-      "source": "IVE 公式"
-    },
     {
       "rank": 2,
       "group_id": "ive",
-      "category": "comeback",
-      "dates": "2026/5/1",
-      "venue": "",
-      "headline": "IVE日本4th EP『LUCID DREAM』店舗別購入特典絵柄公開 5/1",
-      "summary": "IVEの日本4th EP『LUCID DREAM』の店舗別購入特典の絵柄が2026年5月1日に公開されました。特典は各店舗で異なります。",
-      "detail": "IVEの日本4th EP『LUCID DREAM』について、各CDショップ・オンラインストアで異なる店舗別購入特典の絵柄が、2026年5月1日にIVE公式サイトで公開されました。購入を検討するファンは、お好みの特典がある店舗を選ぶことができます。EPのリリース日などの詳細は後日発表予定です。",
-      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3213&cd=OF10374",
-      "source": "IVE 公式"
+      "category": "ticket",
+      "dates": "5/2 更新",
+      "venue": "東京ドーム",
+      "headline": "IVE日本ツアー東京ドーム公演 先行受付 5/2更新",
+      "summary": "IVE WORLD TOUR「SHOW WHAT I AM」東京ドーム公演のプレイガイド先行受付が5月2日より実施決定。ファンはまだチケット購入のチャンスがあります。",
+      "detail": "IVEのワールドツアー「IVE WORLD TOUR ‘SHOW WHAT I AM’ IN JAPAN」東京ドーム公演について、プレイガイド先行受付の実施が5月2日に発表されました。受付期間や申し込み方法などの詳細はIVE公式サイトにてご確認ください。チケットをまだ入手していないファンにとって、新たな購入機会となる重要な情報です。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5813&cd=OF10375",
+      "source": "IVE公式"
     },
     {
-      "rank": 3,
-      "group_id": "h2h",
-      "category": "event",
-      "dates": "2026/9/19(土)～9/21(月・祝)",
-      "venue": "滋賀県草津市 烏丸半島 芝生広場",
-      "headline": "Hearts2Hearts「INAZUMA 2026」出演 9/19-21 滋賀",
-      "summary": "Hearts2Heartsが2026年9月19日(土)～21日(月・祝)に滋賀県草津市・烏丸半島で開催される「FEST. INAZUMA 2026」に出演します。現在チケット抽選受付中です。",
-      "detail": "Hearts2Heartsが、2026年9月19日(土)～21日(月・祝)に滋賀県草津市の烏丸半島芝生広場で開催される大型フェス「FEST. INAZUMA 2026」に出演します。開演は11:30（開場10:00）を予定。チケットは現在イープラスにて抽選受付中です。詳細な出演日時は後日発表予定です。",
-      "url": "https://eplus.jp/sf/detail/4529470002-P0030001P021004?P1=0175",
-      "source": "イープラス"
+      "rank": 1,
+      "group_id": "ive",
+      "category": "tv",
+      "dates": "5/10",
+      "venue": "",
+      "headline": "IVE REIが「日曜日の初耳学」出演 5/10",
+      "summary": "5月10日（日）放送のTBS「日曜日の初耳学」にIVEのREIが出演します。まだチケットを買っていないファンも気軽にチェックできるテレビ出演情報です。",
+      "detail": "IVEのメンバーREIが、5月10日（日）放送のTBS系バラエティ番組「日曜日の初耳学」に出演することが決定しました。番組の詳細な放送時間やコーナー内容については、IVE公式サイトおよびTBS番組公式サイトをご確認ください。この情報は、日本のファンにとって貴重な露出機会であり、チケット未購入のファンでも視聴可能なお知らせです。",
+      "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5813&cd=OF10377",
+      "source": "IVE公式"
     }
   ],
   "groups": {
     "ive": [
       {
-        "rank": 1,
-        "group_id": "ive",
-        "category": "comeback",
-        "dates": "2026/5/7",
-        "venue": "",
-        "headline": "IVE日本4th EP『LUCID DREAM』先行配信「Fashion」レコーディングビハインド公開 5/7",
-        "summary": "IVEの日本4th EP『LUCID DREAM』より、先行配信曲「Fashion」のレコーディングビハインド映像が2026年5月7日に公開されました。EPは今後リリース予定です。",
-        "detail": "IVEの日本4th EP『LUCID DREAM』から、先行配信曲「Fashion」のレコーディングビハインド映像が、2026年5月7日にIVE公式サイトで公開されました。この映像ではメンバーのレコーディング風景を垣間見ることができます。EP『LUCID DREAM』の詳細なリリース日は今後発表予定です。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3213&cd=OF10376",
-        "source": "IVE 公式"
-      },
-      {
         "rank": 2,
         "group_id": "ive",
-        "category": "comeback",
-        "dates": "2026/5/1",
-        "venue": "",
-        "headline": "IVE日本4th EP『LUCID DREAM』店舗別購入特典絵柄公開 5/1",
-        "summary": "IVEの日本4th EP『LUCID DREAM』の店舗別購入特典の絵柄が2026年5月1日に公開されました。特典は各店舗で異なります。",
-        "detail": "IVEの日本4th EP『LUCID DREAM』について、各CDショップ・オンラインストアで異なる店舗別購入特典の絵柄が、2026年5月1日にIVE公式サイトで公開されました。購入を検討するファンは、お好みの特典がある店舗を選ぶことができます。EPのリリース日などの詳細は後日発表予定です。",
-        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=3213&cd=OF10374",
-        "source": "IVE 公式"
-      }
-    ],
-    "h2h": [
+        "category": "ticket",
+        "dates": "5/2 更新",
+        "venue": "東京ドーム",
+        "headline": "IVE日本ツアー東京ドーム公演 先行受付 5/2更新",
+        "summary": "IVE WORLD TOUR「SHOW WHAT I AM」東京ドーム公演のプレイガイド先行受付が5月2日より実施決定。ファンはまだチケット購入のチャンスがあります。",
+        "detail": "IVEのワールドツアー「IVE WORLD TOUR ‘SHOW WHAT I AM’ IN JAPAN」東京ドーム公演について、プレイガイド先行受付の実施が5月2日に発表されました。受付期間や申し込み方法などの詳細はIVE公式サイトにてご確認ください。チケットをまだ入手していないファンにとって、新たな購入機会となる重要な情報です。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5813&cd=OF10375",
+        "source": "IVE公式"
+      },
       {
-        "rank": 3,
-        "group_id": "h2h",
-        "category": "event",
-        "dates": "2026/9/19(土)～9/21(月・祝)",
-        "venue": "滋賀県草津市 烏丸半島 芝生広場",
-        "headline": "Hearts2Hearts「INAZUMA 2026」出演 9/19-21 滋賀",
-        "summary": "Hearts2Heartsが2026年9月19日(土)～21日(月・祝)に滋賀県草津市・烏丸半島で開催される「FEST. INAZUMA 2026」に出演します。現在チケット抽選受付中です。",
-        "detail": "Hearts2Heartsが、2026年9月19日(土)～21日(月・祝)に滋賀県草津市の烏丸半島芝生広場で開催される大型フェス「FEST. INAZUMA 2026」に出演します。開演は11:30（開場10:00）を予定。チケットは現在イープラスにて抽選受付中です。詳細な出演日時は後日発表予定です。",
-        "url": "https://eplus.jp/sf/detail/4529470002-P0030001P021004?P1=0175",
-        "source": "イープラス"
+        "rank": 1,
+        "group_id": "ive",
+        "category": "tv",
+        "dates": "5/10",
+        "venue": "",
+        "headline": "IVE REIが「日曜日の初耳学」出演 5/10",
+        "summary": "5月10日（日）放送のTBS「日曜日の初耳学」にIVEのREIが出演します。まだチケットを買っていないファンも気軽にチェックできるテレビ出演情報です。",
+        "detail": "IVEのメンバーREIが、5月10日（日）放送のTBS系バラエティ番組「日曜日の初耳学」に出演することが決定しました。番組の詳細な放送時間やコーナー内容については、IVE公式サイトおよびTBS番組公式サイトをご確認ください。この情報は、日本のファンにとって貴重な露出機会であり、チケット未購入のファンでも視聴可能なお知らせです。",
+        "url": "http://ive-official.jp/mob/news/newsShw.php?site=DIVE&ima=5813&cd=OF10377",
+        "source": "IVE公式"
       }
     ]
   }
